@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jslint>
+	<file name='/home/OS/nodejs/Boldium/src/server.js'>
+		<issue line='59' char='11' severity='W' reason='Missing semicolon.' evidence='        })' />
+	</file>
+	<file name='/home/OS/nodejs/Boldium/src/server.js'>
+		<issue line='70' char='7' severity='W' reason='Missing semicolon.' evidence='    })' />
+	</file>
+</jslint>

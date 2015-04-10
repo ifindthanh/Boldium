@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jslint>
+	<file name='/home/OS/nodejs/Boldium/src/commons/format.js'>
+		<issue line='9' char='2' severity='W' reason='Unnecessary semicolon.' evidence='};' />
+	</file>
+</jslint>

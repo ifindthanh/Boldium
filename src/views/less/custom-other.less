@@ -1,0 +1,14 @@
+@import "bootstrap/variables";
+@import "custom-variables";
+
+.btn-primary {
+  &:hover,
+  &:focus,
+  &.focus,
+  &:active,
+  &.active,
+  .open > .dropdown-toggle& {
+    color: #fff;
+    background-color: @brand-primary;
+  }
+}

@@ -1,0 +1,47 @@
+@contact_result_padding: 100px;  //for contact form @contact_result_padding + 50
+.padding(){
+  padding-left:20px;
+}
+.contact_result {
+  position: relative;
+}
+.contact_result__border-wrapper{
+  height: 100%;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+}
+.contact_result__border{
+  width: 2px;
+  height: 100%;
+  background-color: #ccc;
+  margin: 0 auto;
+}
+.contact_result__wrapper{
+  margin: 0 auto;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  padding:20px;
+}
+.contact_result__right{
+  padding-left: @contact_result_padding;
+  width:50%;
+  float: left;
+}
+.contact_result__left{
+  padding-right: @contact_result_padding;
+  width:50%;
+  float: left;
+}
+.contact_result__text{
+  font-size: 24px;
+  color: #333333;
+  font-weight: 300;
+  line-height: 30px;
+}
+.contact_result__text h3{
+  margin-top:0px;
+}

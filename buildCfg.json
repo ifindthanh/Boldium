@@ -1,0 +1,42 @@
+{
+    "paths": {
+        "less": [
+            "views/less/*.less"
+        ],
+        "jsx": [
+            "views/appClient.jsx"
+        ],
+        "js": ["./src/*.js", "./src/**/*.js"]
+    },
+    "dist": {
+        "dir": "./build",
+        "src": "./build/src",
+        "app_src": "bundle.js",
+        "app_build": "bundle.min.js",
+        "style_src": "style.css",
+        "style_build": "style.min.css"
+    },
+    "tests": {
+        "dir": "./tests",
+        "cssReport": "./tests/lint/report/css",
+        "jsReport": "./tests/lint/report/js",
+        "extFile": ".xml"
+    },
+    "www": {
+        "dir": {
+            "root": "public/",
+            "css": "public/css",
+            "js": "public/js",
+            "image": "public/images"
+        },
+        "file": {
+            "index": "index.html",
+            "cssBundle": "style.css",
+            "cssMinBundle": "style.min.css",
+            "jsBundle": "bundle.js",
+            "jsMinBundle": "bundle.min.js"
+        }
+    },
+    "source": "./src",
+    "docs": "./docs"
+}

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jslint>
+	<file name='/home/OS/nodejs/Boldium/src/controllers/type.js'>
+		<issue line='130' char='25' severity='W' reason='&apos;method&apos; is already defined.' evidence='        for (var method in options) {' />
+	</file>
+	<file name='/home/OS/nodejs/Boldium/src/controllers/type.js'>
+		<issue line='154' char='2' severity='W' reason='Unnecessary semicolon.' evidence='};' />
+	</file>
+	<file name='/home/OS/nodejs/Boldium/src/controllers/type.js'>
+		<issue line='157' char='48' severity='W' reason='Missing semicolon.' evidence='    var T = resolver(&apos;type&apos;, data.type), d = {}' />
+	</file>
+</jslint>

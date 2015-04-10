@@ -1,0 +1,24 @@
+{
+    "deployment": {
+        "DEV": {
+            "host": "127.0.0.1",
+            "port": "3000"
+        },
+        "PROD": {
+            "host": "ec2-54-183-171-109.us-west-1.compute.amazonaws.com",
+            "port": ""
+        }
+    },
+    "mailServer": {
+        "SMTP": {
+            "host":"smtp.gmail.com",
+            "port":"587",
+            "secure":"false",
+            "auth":{
+                "user":"llc.boldium@gmail.com",
+                "pass":"abc@123z"
+            },
+            "debug":"true"
+        }
+    }
+}

@@ -1,0 +1,19 @@
+// Button variants
+//
+// Easily pump out default styles, as well as :hover, :focus, :active,
+// and disabled options for all buttons
+
+.button-variant(@color; @background; @border) {
+  transition: background-color 0.1s ease-in-out, color 0.1s ease-in-out;
+
+  &:hover,
+  &:focus,
+  &.focus,
+  &:active,
+  &.active,
+  .open > .dropdown-toggle& {
+    color: @color;
+    background-color: fade(darken(@border, 47%), 70%);
+    border-color: @border;
+  }
+}

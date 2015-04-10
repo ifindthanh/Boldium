@@ -1,0 +1,88 @@
+@import "bootstrap/variables";
+@import "custom-variables";
+@import "bootstrap/bootstrap";
+
+.module-text {
+	margin: 0 auto;
+	max-width: 1180px;
+	line-height: 43px;
+	position: relative;
+	overflow: hidden;
+}
+.module-text .module-text__border-wrapper {
+	height: 100%;
+	position: absolute;
+	left: 0;
+	right: 0;
+	top: 0;
+	bottom: 0;
+}
+.module-text .module-text__border {
+	width: 2px;
+	height: 100%;
+	background-color: #ccc;
+	margin: 0 auto;
+}
+
+.module-text__container {
+	position: relative;
+	padding: 125px 0;
+}
+.module-text__title {
+	color: #fc361d;
+	font-weight: 100;
+	font-size: 45px;
+	text-align: right;
+	width: 539px;
+	margin: 0 50px 0 0;
+	float: left;
+	line-height: 55px;
+}
+.module-text__text-inner {
+	width: 450px;
+	padding-top: 9px;
+	padding-left: 50px;
+	margin-left: 590px;
+	font-size: 36px;
+	font-weight: 300;
+	color: #5C5C5C;
+}
+.module-text__text--small {
+	font-size: 18px;
+	line-height: 24px;
+	padding-top: 25px;
+}
+.module-text__text {
+	margin-bottom: 15px;
+	position: relative;
+}
+.module-text__text--add {
+	margin-left: 640px
+}
+.module-text__size-edit {
+	transition: opacity 0.3s ease-in-out;
+	opacity: 1;
+	&.module-text__size-edit--hidden {
+		opacity: 0;
+	}
+}
+@media (max-width: @screen-xs) {
+	.module-text .module-text__border {
+		display: none;
+	}
+	.module-text__title {
+		float: none;
+		text-align: left;
+		margin: 0;
+	}
+	.module-text__text-inner {
+		margin-left: 0;
+	}
+	.module-text__title,
+	.module-text__text-inner {
+		padding: 0 25px;
+	}
+}
+
+
+

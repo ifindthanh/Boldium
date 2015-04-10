@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jslint>
+	<file name='/home/OS/nodejs/Boldium/src/models/mailServer.js'>
+		<issue line='9' char='25' severity='W' reason='[&apos;SMTP&apos;] is better written in dot notation.' evidence='var smtpCfg = mailServer[&quot;SMTP&quot;];' />
+	</file>
+	<file name='/home/OS/nodejs/Boldium/src/models/mailServer.js'>
+		<issue line='20' char='2' severity='W' reason='Unnecessary semicolon.' evidence='};' />
+	</file>
+</jslint>

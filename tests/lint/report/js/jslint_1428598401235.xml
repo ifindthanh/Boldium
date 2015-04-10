@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jslint>
+	<file name='/home/OS/nodejs/Boldium/src/controllers/imageHandler.js'>
+		<issue line='23' char='26' severity='W' reason='Use &apos;!==&apos; to compare with &apos;null&apos;.' evidence='                if (mime != null) {' />
+	</file>
+	<file name='/home/OS/nodejs/Boldium/src/controllers/imageHandler.js'>
+		<issue line='33' char='26' severity='W' reason='Use &apos;===&apos; to compare with &apos;null&apos;.' evidence='                if (mime == null) {' />
+	</file>
+</jslint>

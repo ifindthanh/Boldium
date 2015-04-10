@@ -1,0 +1,25 @@
+{
+    "data": {
+        "dataFile": "../data.json",
+        "images": {
+            "allowable": {
+                "jpeg": "image/jpeg",
+                "jpg": "image/jpeg",
+                "png": "image/png"
+            },
+            "large": {
+                "dir": "../files/large/",
+                "width": "2000",
+                "height": "800"
+            },
+            "original": {
+                "dir": "../files/original/"
+            },
+            "thumbnail": {
+                "dir": "../files/thumbnail/",
+                "width": "200",
+                "height": "100"
+            }
+        }
+    }
+}

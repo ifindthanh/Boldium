@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jslint>
+	<file name='/home/OS/nodejs/Boldium/src/commons/fileUtils.js'>
+		<issue line='22' char='18' severity='W' reason='Use &apos;===&apos; to compare with &apos;null&apos;.' evidence='        if (mime == null || !allowable[mime.ext]) {' />
+	</file>
+</jslint>

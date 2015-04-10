@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jslint>
+	<file name='/home/OS/nodejs/Boldium/src/controllers/template.js'>
+		<issue line='30' char='20' severity='W' reason='&apos;i&apos; is already defined.' evidence='        for (var i = 0; i &lt; suggestions.length; i++) {' />
+	</file>
+</jslint>

@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jslint>
+	<file name='/home/OS/nodejs/Boldium/src/controllers/fields/image.js'>
+		<issue line='19' char='48' severity='W' reason='[&apos;original&apos;] is better written in dot notation.' evidence='    var presetOption = images[preset] || images[&apos;original&apos;];' />
+	</file>
+</jslint>

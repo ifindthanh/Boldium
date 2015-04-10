@@ -1,0 +1,3331 @@
+{
+    "home": {
+        "type": "page",
+        "name": "Home",
+        "path": "/",
+        "modules": ["home-1", "home-2", "home-3", "home-4", "home-5", "home--e231ee99-785a-4155-937c-796c448d477e", "home-7", "home-8", "home-9"],
+        "id": "home"
+    },
+    "home-1": {
+        "type": "image-hero-module",
+        "image": "home-panel1.jpg",
+        "height": 800,
+        "title": "Great businesses are\nbuilt on things people believe in.",
+        "link": {
+            "reference": "home",
+            "text": "Contact Us"
+        },
+        "id": "home-1"
+    },
+    "home-2": {
+        "id": "home-2",
+        "type": "text-module",
+        "lines": ["home-2-1"]
+    },
+    "home-2-1": {
+        "type": "line",
+        "title": "Hello",
+        "text": "We're Boldium, an *innovation studio*. We tap into the hearts and minds of your audience to create that “*I was made for this*” feeling.",
+        "size": "large",
+        "id": "home-2-1"
+    },
+    "home-3": {
+        "type": "image-body-module",
+        "image": "findingrover.jpg",
+        "height": 500,
+        "title": "Finding Rover",
+        "text": "Mobile app and digital marketing\n60,000 users year one",
+        "link": {
+            "reference": "finding-rover-cross-platform-application",
+            "text": "Learn more"
+        },
+        "id": "home-3"
+    },
+    "home-4": {
+        "type": "text-module",
+        "lines": ["home-4-1"],
+        "id": "home-4"
+    },
+    "home-4-1": {
+        "type": "line",
+        "title": "Our signature",
+        "text": "Uncompromising passion to discover, design, build and promote things that have a *positive impact* on people’s lives.  ",
+        "size": "large",
+        "id": "home-4-1"
+    },
+    "home-4-2": {
+        "type": "line",
+        "title": "Our Passion",
+        "text": "foobar",
+        "size": "small",
+        "id": "home-4-2"
+    },
+    "home-5": {
+        "type": "image-body-module",
+        "image": "californiaclosets.jpg",
+        "height": 500,
+        "title": "California Closets",
+        "text": "Website Redesign\nLeads + 260%",
+        "link": {
+            "reference": "california-closets-website",
+            "text": "Learn more"
+        },
+        "id": "home-5"
+    },
+    "home-6": {
+        "type": "text-module",
+        "lines": ["home-4-2"],
+        "id": "home-6"
+    },
+    "home-6-1": {
+        "id": "home-6-1",
+        "type": "line",
+        "title": "Our Passion",
+        "text": "We believe that ultimately what makes brands tick is *improving people's lives*.",
+        "size": "large"
+    },
+    "home-6-2": {
+        "id": "home-6-2",
+        "type": "line",
+        "title": "",
+        "text": "We're passionate about creating great experiences. With a culture of incomprimising quality, we turn over every rock and optimize every detail.",
+        "size": "small"
+    },
+    "home-7": {
+        "type": "image-body-module",
+        "image": "cisco.jpg",
+        "height": 500,
+        "title": "Cisco",
+        "text": "Video and Social Media\nWinner of Communicator Award",
+        "link": {
+            "reference": "cisco-motion",
+            "text": "Learn more"
+        },
+        "id": "home-7"
+    },
+    "home-8": {
+        "id": "home-8",
+        "type": "text-module",
+        "lines": ["home-8-1", "home-8-2"]
+    },
+    "home-8-1": {
+        "id": "home-8-1",
+        "type": "line",
+        "title": "Our Clients",
+        "text": "Boldium is an awesome creative agency.",
+        "size": "large"
+    },
+    "home-8-2": {
+        "id": "home-8-2",
+        "type": "line",
+        "title": "",
+        "text": "*Big executive*",
+        "size": "small"
+    },
+    "home-9": {
+        "type": "image-body-module",
+        "image": "home_test2.png",
+        "height": 500,
+        "title": "",
+        "text": "",
+        "link": {
+            "reference": "",
+            "text": ""
+        },
+        "id": "home-9"
+    },
+    "vode-website": {
+        "type": "work-page",
+        "name": "Vode",
+        "subName": "website",
+        "image": "vode_work.png",
+        "modules": ["vode-website-1", "vode-website--a7cc9e15-cc35-4f4b-9d1f-13d589cd6111", "vode-website--69fc49db-922b-4b9e-8f96-ca16b190d183", "vode-website-5", "vode-website--455f646f-66d2-4c5a-8688-939f44f8d1d1", "vode-website--837793a3-1a83-4f02-9ece-3841b801f017", "vode-website--4b2e1036-f4b6-4cdf-be11-6254233164b6", "vode-website--6b83680f-2119-42c9-a712-91670dd4ede8", "vode-website--c765cb51-a690-454a-bbf1-3466f4a48614", "vode-website--43415beb-4de3-4c99-8073-86160f35b5bb", "vode-website--352c2700-3464-4b76-a57e-b6468d4e8a92", "vode-website--7c0cf481-51c5-4f86-b724-b359931289b3", "vode-website--e351f16a-2e4c-4a92-97fe-29fae2895afe", "vode-website--a00b284d-b5c5-413a-a59c-d2f91a232442"],
+        "id": "vode-website"
+    },
+    "vode-website-1": {
+        "type": "image-hero-module",
+        "image": "auto_landing.png",
+        "height": -194,
+        "link": {},
+        "id": "vode-website-1"
+    },
+    "vode-website-2-1": {
+        "title": "Vode",
+        "text": "Simply illuminated.",
+        "size": "large",
+        "id": "vode-website-2-1",
+        "type": "line"
+    },
+    "vode-website-2": {
+        "lines": ["vode-website-2-1"],
+        "id": "vode-website-2",
+        "type": "text-module"
+    },
+    "vode-website-3": {
+        "type": "image-body-module",
+        "height": "500",
+        "id": "vode-website-3"
+    },
+    "vode-website-4-1": {
+        "type": "line",
+        "title": "Challenge ",
+        "text": "Vode provides innovative lighting design for big places - think Amazon offices. With over 8,000 pre-configured systems, they can fit seamlessly into any architecutral setting.",
+        "size": "large",
+        "id": "vode-website-4-1"
+    },
+    "vode-website-4": {
+        "lines": ["vode-website-4-1"],
+        "id": "vode-website-4",
+        "type": "text-module"
+    },
+    "vode-website-5": {
+        "type": "image-body-module",
+        "image": "vode_diagram.png",
+        "height": 500,
+        "link": {},
+        "id": "vode-website-5"
+    },
+    "radiators-website": {
+        "type": "work-page",
+        "name": "Radiators",
+        "subName": "website",
+        "image": "work_page_smaller_phase.png",
+        "modules": ["radiators-website-1", "radiators-website-2", "radiators-website-3", "radiators-website-4", "radiators-website-5"],
+        "id": "radiators-website"
+    },
+    "radiators-website-1": {
+        "type": "image-hero-module",
+        "image": "Screen Shot 2015-01-02 at 9.17.30 AM.png",
+        "height": 500,
+        "link": {},
+        "id": "radiators-website-1"
+    },
+    "radiators-website-2-1": {
+        "title": "[ blank title ]",
+        "text": "[ blank text ]",
+        "size": "large",
+        "id": "radiators-website-2-1",
+        "type": "line"
+    },
+    "radiators-website-2": {
+        "lines": ["radiators-website-2-1"],
+        "id": "radiators-website-2",
+        "type": "text-module"
+    },
+    "radiators-website-3": {
+        "type": "image-body-module",
+        "id": "radiators-website-3"
+    },
+    "radiators-website-4-1": {
+        "title": "[ blank title ]",
+        "text": "[ blank text ]",
+        "size": "large",
+        "id": "radiators-website-4-1",
+        "type": "line"
+    },
+    "radiators-website-4": {
+        "lines": ["radiators-website-4-1"],
+        "id": "radiators-website-4",
+        "type": "text-module"
+    },
+    "radiators-website-5": {
+        "type": "image-body-module",
+        "id": "radiators-website-5"
+    },
+    "finding-rover-social-media": {
+        "type": "work-page",
+        "name": "Finding Rover",
+        "subName": "social media",
+        "image": "FDR_campaign_rk_module.png",
+        "modules": ["finding-rover-social-media-1", "finding-rover-social-media-2", "finding-rover-social-media-3", "finding-rover-social-media-4", "finding-rover-social-media-5", "finding-rover-social-media-6", "finding-rover-social-media--70aae526-6450-4f6e-9cf4-03242ac35c84", "finding-rover-social-media--0b3c7c68-3dc3-437d-b5c3-1d3ce2d7b43f", "finding-rover-social-media-7", "finding-rover-social-media-8", "finding-rover-social-media--21970a1e-e776-45a4-829a-2bad0136b5bc"],
+        "id": "finding-rover-social-media"
+    },
+    "finding-rover-social-media-1": {
+        "type": "image-hero-module",
+        "image": "FDR_campaign_hero.png",
+        "height": 800,
+        "title": "*Finding Rover:*\nCreating a movement",
+        "link": {},
+        "id": "finding-rover-social-media-1"
+    },
+    "finding-rover-social-media-2-1": {
+        "type": "line",
+        "title": "Inspiration",
+        "text": "Our strategy was to create a movement. Once everyone gets the app, the problem of lost dogs is solved. Period. What would inspire people to jump on board?",
+        "size": "small",
+        "id": "finding-rover-social-media-2-1"
+    },
+    "finding-rover-social-media-2-2": {
+        "type": "line",
+        "title": "Hypotheses",
+        "text": "We landed with 4 hypothesis. They were all good, (okay, they were amazing), but the proof would be in the pudding. Or Facebook.",
+        "size": "small",
+        "id": "finding-rover-social-media-2-2"
+    },
+    "finding-rover-social-media-2": {
+        "lines": ["finding-rover-social-media-2-1", "finding-rover-social-media-2-2"],
+        "id": "finding-rover-social-media-2",
+        "type": "text-module"
+    },
+    "finding-rover-social-media-3": {
+        "type": "image-body-module",
+        "image": "phone_screens_numbers.png",
+        "height": 500,
+        "link": {},
+        "id": "finding-rover-social-media-3"
+    },
+    "finding-rover-social-media-4-1": {
+        "type": "line",
+        "title": "Puppy contest",
+        "text": "We created 12 posts to test. We tested not only the tag lines, but which cute puppy people liked the best. We know, hard to play favorites.",
+        "size": "small",
+        "id": "finding-rover-social-media-4-1"
+    },
+    "finding-rover-social-media-4-2": {
+        "title": "Favorites",
+        "text": "We were able to break down which messages worked best for which demographic groups.",
+        "size": "small",
+        "id": "finding-rover-social-media-4-2",
+        "type": "line"
+    },
+    "finding-rover-social-media-4-3": {
+        "title": "Results",
+        "text": "Through this process, we lowered the average post price by 120%.",
+        "size": "large",
+        "id": "finding-rover-social-media-4-3",
+        "type": "line"
+    },
+    "finding-rover-social-media-4": {
+        "lines": ["finding-rover-social-media-4-1", "finding-rover-social-media-4-2", "finding-rover-social-media-4-3"],
+        "id": "finding-rover-social-media-4",
+        "type": "text-module"
+    },
+    "finding-rover-social-media-5": {
+        "type": "image-body-module",
+        "image": "FDR_guerrilla3.png",
+        "height": 500,
+        "link": {},
+        "id": "finding-rover-social-media-5"
+    },
+    "finding-rover-social-media-6-1": {
+        "type": "line",
+        "title": "Dogs love us",
+        "text": "But we knew it would take more than Facebook to energize the movement. ",
+        "size": "small",
+        "id": "finding-rover-social-media-6-1"
+    },
+    "finding-rover-social-media-6-2": {
+        "title": "",
+        "text": "Dogs love us at\nFinding Rover",
+        "size": "large",
+        "id": "finding-rover-social-media-6-2",
+        "type": "line"
+    },
+    "finding-rover-social-media-6-3": {
+        "text": "You know the \"People love us on Yelp\" stickers? We created a \"Dogs love us on Finding Rover\" campaign.",
+        "size": "small",
+        "id": "finding-rover-social-media-6-3",
+        "type": "line"
+    },
+    "finding-rover-social-media-6-4": {
+        "type": "line",
+        "title": "Follow the dog prints",
+        "text": "To get stores on board, we created a Partner Package with lots of bells and whistles: chalk dog prints on the sidewalk leading to your door, a bright orange dog bowl, brochures featuring local dog friendly business, and of course, the sticker.",
+        "size": "small",
+        "id": "finding-rover-social-media-6-4"
+    },
+    "finding-rover-social-media-6": {
+        "lines": ["finding-rover-social-media-6-1", "finding-rover-social-media-6-2", "finding-rover-social-media-6-3", "finding-rover-social-media-6-4"],
+        "id": "finding-rover-social-media-6",
+        "type": "text-module"
+    },
+    "finding-rover-social-media-7": {
+        "type": "image-body-module",
+        "image": "FDR_campaign_final_image.png",
+        "height": 500,
+        "text": "",
+        "link": {},
+        "id": "finding-rover-social-media-7"
+    },
+    "finding-rover-social-media-8-1": {
+        "title": "Results",
+        "text": "Thousands of furry friends protected. What could be better than that?",
+        "size": "large",
+        "id": "finding-rover-social-media-8-1",
+        "type": "line"
+    },
+    "finding-rover-social-media-8": {
+        "lines": ["finding-rover-social-media-8-1"],
+        "id": "finding-rover-social-media-8",
+        "type": "text-module"
+    },
+    "atp-mobile-application": {
+        "type": "work-page",
+        "name": "ATP",
+        "subName": "mobile application",
+        "image": "work_page_smaller_phase.png",
+        "modules": ["atp-mobile-application-1", "atp-mobile-application-2", "atp-mobile-application-3", "atp-mobile-application-4", "atp-mobile-application-5"],
+        "id": "atp-mobile-application"
+    },
+    "atp-mobile-application-1": {
+        "type": "image-hero-module",
+        "height": "656",
+        "image": "ATP-iPad-Application-656-01.jpg",
+        "id": "atp-mobile-application-1"
+    },
+    "atp-mobile-application-2-1": {
+        "title": "ATP",
+        "text": "Building a better service",
+        "size": "large",
+        "id": "atp-mobile-application-2-1",
+        "type": "line"
+    },
+    "atp-mobile-application-2-2": {
+        "text": "Praesent blandit felis dui, vitae volutpat mauris aliquam vel. Proin nibh augue, egestas vitae arcu vitae, auctor varius risus. Ut blandit sit amet arcu sed consequat.",
+        "size": "small",
+        "id": "atp-mobile-application-2-2",
+        "type": "line"
+    },
+    "atp-mobile-application-2": {
+        "lines": ["atp-mobile-application-2-1", "atp-mobile-application-2-2"],
+        "id": "atp-mobile-application-2",
+        "type": "text-module"
+    },
+    "atp-mobile-application-3": {
+        "type": "image-body-module",
+        "height": "500",
+        "image": "ATP-Website-500-01.jpg",
+        "id": "atp-mobile-application-3"
+    },
+    "atp-mobile-application-4-1": {
+        "type": "line",
+        "title": "Ut blandit sit",
+        "text": "Praesent blandit felis dui, vitae volutpat mauris aliquam vel. Proin nibh augue, egestas vitae arcu vitae, auctor varius. Ut blandit sit amet arcu sed consequat.",
+        "size": "small",
+        "id": "atp-mobile-application-4-1"
+    },
+    "atp-mobile-application-4": {
+        "lines": ["atp-mobile-application-4-1"],
+        "id": "atp-mobile-application-4",
+        "type": "text-module"
+    },
+    "atp-mobile-application-5": {
+        "type": "image-body-module",
+        "id": "atp-mobile-application-5"
+    },
+    "sungevity-website": {
+        "type": "work-page",
+        "name": "Sungevity",
+        "subName": "website",
+        "image": "sungevity_smaller.png",
+        "modules": ["sungevity-website-1", "sungevity-website-2", "sungevity-website-3", "sungevity-website-4", "sungevity-website-5", "sungevity-website-6", "sungevity-website-7"],
+        "id": "sungevity-website"
+    },
+    "sungevity-website-1": {
+        "type": "image-hero-module",
+        "image": "sungevity_hero.png",
+        "height": 800,
+        "title": "*Sungevity:* \nBuilding for tomorrow, today",
+        "link": {},
+        "id": "sungevity-website-1"
+    },
+    "sungevity-website-2-1": {
+        "title": "Challenge",
+        "text": "Sungevity was changing the game in residential solar installation by using GPS technology to create instantaneous quotes, but they needed a website that could both help them and help customers understand the value.",
+        "size": "small",
+        "id": "sungevity-website-2-1",
+        "type": "line"
+    },
+    "sungevity-website-2": {
+        "lines": ["sungevity-website-2-1"],
+        "id": "sungevity-website-2",
+        "type": "text-module"
+    },
+    "sungevity-website-3": {
+        "type": "image-body-module",
+        "image": "sungevity_sketches.png",
+        "height": 500,
+        "link": {},
+        "id": "sungevity-website-3"
+    },
+    "sungevity-website-4-1": {
+        "type": "line",
+        "title": "Sunny Days Ahead",
+        "text": "The website takes users through a funnel that feels as warm and easy as sunbathing.",
+        "size": "small",
+        "id": "sungevity-website-4-1"
+    },
+    "sungevity-website-4-2": {
+        "type": "line",
+        "text": "And Sungevity can instantaneously experiment with steps in the funnel to optimize conversions. Why shoot for the moon when you can have the sun?",
+        "size": "small",
+        "id": "sungevity-website-4-2"
+    },
+    "sungevity-website-4": {
+        "lines": ["sungevity-website-4-1", "sungevity-website-4-2"],
+        "id": "sungevity-website-4",
+        "type": "text-module"
+    },
+    "sungevity-website-5": {
+        "type": "image-body-module",
+        "image": "sungevity_device.png",
+        "height": 500,
+        "link": {},
+        "id": "sungevity-website-5"
+    },
+    "sungevity-website-6-1": {
+        "title": "Success",
+        "text": "The website was an immediate success. It helped consumers learn quickly, and helped Sungevity optimize on the fly. The website played a crucial role in Sungevity's quick rise to success.",
+        "size": "small",
+        "id": "sungevity-website-6-1",
+        "type": "line"
+    },
+    "sungevity-website-6": {
+        "lines": ["sungevity-website-6-1"],
+        "id": "sungevity-website-6",
+        "type": "text-module"
+    },
+    "sungevity-website-7": {
+        "type": "image-body-module",
+        "image": "sungevity_last.png",
+        "height": 500,
+        "link": {},
+        "id": "sungevity-website-7"
+    },
+    "autodesk-in-trial-marketing-campaign": {
+        "type": "work-page",
+        "name": "Autodesk",
+        "subName": "in-trial marketing campaign",
+        "image": "autodesk_itm_work_module3.png",
+        "modules": ["autodesk-in-trial-marketing-campaign-1", "autodesk-in-trial-marketing-campaign--23cf5115-4f7a-4ab1-aaf2-c604f89420bf", "autodesk-in-trial-marketing-campaign-3", "autodesk-in-trial-marketing-campaign-4", "autodesk-in-trial-marketing-campaign-5", "autodesk-in-trial-marketing-campaign-6", "autodesk-in-trial-marketing-campaign-7", "autodesk-in-trial-marketing-campaign-8", "autodesk-in-trial-marketing-campaign-9", "autodesk-in-trial-marketing-campaign-10", "autodesk-in-trial-marketing-campaign-11"],
+        "id": "autodesk-in-trial-marketing-campaign"
+    },
+    "autodesk-in-trial-marketing-campaign-1": {
+        "type": "image-hero-module",
+        "image": "autodesk_itm_hero3.png",
+        "height": 800,
+        "title": "*Autodesk:*\nInspiring  people to reach high ",
+        "link": {},
+        "id": "autodesk-in-trial-marketing-campaign-1"
+    },
+    "autodesk-in-trial-marketing-campaign-2-1": {
+        "type": "line",
+        "title": "Challenge",
+        "text": "Autodesk came to us with a challenge. Lots of people download free trials and then drop off the planet.\n",
+        "size": "large",
+        "id": "autodesk-in-trial-marketing-campaign-2-1"
+    },
+    "autodesk-in-trial-marketing-campaign-2-2": {
+        "type": "line",
+        "text": "",
+        "size": "small",
+        "id": "autodesk-in-trial-marketing-campaign-2-2"
+    },
+    "autodesk-in-trial-marketing-campaign-2": {
+        "lines": ["autodesk-in-trial-marketing-campaign-2-1", "autodesk-in-trial-marketing-campaign-2-2"],
+        "id": "autodesk-in-trial-marketing-campaign-2",
+        "type": "text-module"
+    },
+    "autodesk-in-trial-marketing-campaign-3": {
+        "type": "image-body-module",
+        "image": "moto2.png",
+        "height": 500,
+        "link": {},
+        "id": "autodesk-in-trial-marketing-campaign-3"
+    },
+    "autodesk-in-trial-marketing-campaign-4-1": {
+        "type": "line",
+        "title": "Insight",
+        "text": "We started with research: interviews, analytics, and fumbling around the software. People get easily discouraged. (We understand.) ",
+        "size": "small",
+        "id": "autodesk-in-trial-marketing-campaign-4-1"
+    },
+    "autodesk-in-trial-marketing-campaign-4-2": {
+        "type": "line",
+        "text": "We realized there's an incredible opportunity to make inspiration an integral part of the value proposition of the software. Inspiring people to reach their dreams would benefit everyone.\n",
+        "size": "small",
+        "id": "autodesk-in-trial-marketing-campaign-4-2"
+    },
+    "autodesk-in-trial-marketing-campaign-4-3": {
+        "type": "line",
+        "text": "We also discovered that when people seek Support, they are more likely to convert. By double digits.",
+        "size": "small",
+        "id": "autodesk-in-trial-marketing-campaign-4-3"
+    },
+    "autodesk-in-trial-marketing-campaign-4": {
+        "lines": ["autodesk-in-trial-marketing-campaign-4-1", "autodesk-in-trial-marketing-campaign-4-2", "autodesk-in-trial-marketing-campaign-4-3"],
+        "id": "autodesk-in-trial-marketing-campaign-4",
+        "type": "text-module"
+    },
+    "autodesk-in-trial-marketing-campaign-5": {
+        "type": "image-body-module",
+        "image": "autodesk_itm_landing.png",
+        "height": 500,
+        "link": {},
+        "id": "autodesk-in-trial-marketing-campaign-5"
+    },
+    "autodesk-in-trial-marketing-campaign-6-1": {
+        "type": "line",
+        "title": "Inspiration",
+        "text": "We crafted an ecosystem of AutoCAD enthusiasts who were willing to help beginners ramp up. The key to success was to craft a personable tone. This represented a significant break from the past.",
+        "size": "small",
+        "id": "autodesk-in-trial-marketing-campaign-6-1"
+    },
+    "autodesk-in-trial-marketing-campaign-6-2": {
+        "type": "line",
+        "text": "\n\nFrom headlines to descriptions, it felt like a real person talking. \n\nWe also told the real stories of the AutoCAD \"Mentors.\" From struggle to triumph, we let Autodesk customers inspire others to believe in themselves and reach their dreams.",
+        "size": "small",
+        "id": "autodesk-in-trial-marketing-campaign-6-2"
+    },
+    "autodesk-in-trial-marketing-campaign-6-3": {
+        "type": "line",
+        "text": "From headlines to descriptions, it felt like a real person talking. ",
+        "size": "small",
+        "id": "autodesk-in-trial-marketing-campaign-6-3"
+    },
+    "autodesk-in-trial-marketing-campaign-6": {
+        "type": "text-module",
+        "lines": ["autodesk-in-trial-marketing-campaign-6-1", "autodesk-in-trial-marketing-campaign-6-3", "66c982c1-22ad-460a-8ac9-5b5028fffbfa"],
+        "id": "autodesk-in-trial-marketing-campaign-6"
+    },
+    "autodesk-in-trial-marketing-campaign-7": {
+        "type": "image-body-module",
+        "image": "auesk_itm_pops.png",
+        "height": 500,
+        "link": {},
+        "id": "autodesk-in-trial-marketing-campaign-7"
+    },
+    "autodesk-in-trial-marketing-campaign-8-1": {
+        "title": "If I did it, so can you!",
+        "text": "We couldn't have made up better stories: One Mentor started off in factory canning fish. An injury \"inspired\" him to take a few classes. A few years later he was designing waterways. Fish loved 'em!",
+        "size": "small",
+        "id": "autodesk-in-trial-marketing-campaign-8-1",
+        "type": "line"
+    },
+    "autodesk-in-trial-marketing-campaign-8": {
+        "lines": ["autodesk-in-trial-marketing-campaign-8-1"],
+        "id": "autodesk-in-trial-marketing-campaign-8",
+        "type": "text-module"
+    },
+    "autodesk-in-trial-marketing-campaign-9": {
+        "type": "image-body-module",
+        "image": "ITM_emails.png",
+        "height": 500,
+        "link": {},
+        "id": "autodesk-in-trial-marketing-campaign-9"
+    },
+    "autodesk-in-trial-marketing-campaign-10-1": {
+        "title": "The results",
+        "text": "The campaign prompted a company wide shift towards a more personable tone. ",
+        "size": "small",
+        "id": "autodesk-in-trial-marketing-campaign-10-1",
+        "type": "line"
+    },
+    "autodesk-in-trial-marketing-campaign-10-2": {
+        "text": "And Autodesk asked us to spread the campaign across over 25 products.",
+        "size": "small",
+        "id": "autodesk-in-trial-marketing-campaign-10-2",
+        "type": "line"
+    },
+    "autodesk-in-trial-marketing-campaign-10": {
+        "lines": ["autodesk-in-trial-marketing-campaign-10-1", "autodesk-in-trial-marketing-campaign-10-2"],
+        "id": "autodesk-in-trial-marketing-campaign-10",
+        "type": "text-module"
+    },
+    "autodesk-in-trial-marketing-campaign-11": {
+        "type": "image-body-module",
+        "image": "autodesk_products.png",
+        "height": 500,
+        "link": {},
+        "id": "autodesk-in-trial-marketing-campaign-11"
+    },
+    "california-closets-motion": {
+        "id": "california-closets-motion",
+        "name": "California Closets",
+        "subName": "motion",
+        "type": "work-page",
+        "modules": ["california-closets-motion-1", "california-closets-motion-2", "california-closets-motion-3", "california-closets-motion-4", "california-closets-motion-5", "california-closets-motion-6", "california-closets-motion-7", "california-closets-motion-8", "california-closets-motion-9", "california-closets-motion-10", "california-closets-motion-11"]
+    },
+    "california-closets-motion-1": {
+        "type": "image-hero-module",
+        "image": "ccmotion_hero.png",
+        "height": 800,
+        "title": "Lorem ipsum dolor sit amet, amet mnesarchum\nEa adhuc delenit invidunt quo.",
+        "link": {},
+        "id": "california-closets-motion-1"
+    },
+    "california-closets-motion-2-1": {
+        "title": "California Closets",
+        "text": "More than a closet.",
+        "size": "large",
+        "id": "california-closets-motion-2-1",
+        "type": "line"
+    },
+    "california-closets-motion-2-2": {
+        "text": "While California Closets sells storage solutions, what they're really selling is something much deeper. Peace of mind.",
+        "size": "small",
+        "id": "california-closets-motion-2-2",
+        "type": "line"
+    },
+    "california-closets-motion-2-3": {
+        "text": "How to communicate the genuine emotional benefit of a great storage solution on a website built to convert sales?",
+        "size": "small",
+        "id": "california-closets-motion-2-3",
+        "type": "line"
+    },
+    "california-closets-motion-2": {
+        "lines": ["california-closets-motion-2-1", "california-closets-motion-2-2", "california-closets-motion-2-3"],
+        "id": "california-closets-motion-2",
+        "type": "text-module"
+    },
+    "california-closets-motion-3": {
+        "type": "image-body-module",
+        "image": "ccm2.png",
+        "height": 800,
+        "link": {},
+        "id": "california-closets-motion-3"
+    },
+    "california-closets-motion-4-1": {
+        "title": "The Audience",
+        "text": "We started by getting to know the audience more deeply. Using both qualitative and quantitative methodologies, we created 5 personas. \n",
+        "size": "small",
+        "id": "california-closets-motion-4-1",
+        "type": "line"
+    },
+    "california-closets-motion-4-2": {
+        "text": "The personas describe not only buying habits and personality, but they go a level deeper: what are the emotional drivers? What are the inspirations?  ",
+        "size": "small",
+        "id": "california-closets-motion-4-2",
+        "type": "line"
+    },
+    "california-closets-motion-4": {
+        "lines": ["california-closets-motion-4-1", "california-closets-motion-4-2"],
+        "id": "california-closets-motion-4",
+        "type": "text-module"
+    },
+    "california-closets-motion-5": {
+        "type": "image-body-module",
+        "image": "personas.png",
+        "height": "500",
+        "link": {},
+        "id": "california-closets-motion-5"
+    },
+    "california-closets-motion-6-1": {
+        "title": "Storyboarding",
+        "text": "We then created scenarios for a video that would live on the homepage and feature each of the five Personas relaxing at home. Nothing cheesy. Nothing over the top. Nothing that forced the use of the product. \n",
+        "size": "small",
+        "id": "california-closets-motion-6-1",
+        "type": "line"
+    },
+    "california-closets-motion-6-2": {
+        "text": "Our goal was for the audience to feel an emotional connection with someone who could well be a good friend. Natural.",
+        "size": "small",
+        "id": "california-closets-motion-6-2",
+        "type": "line"
+    },
+    "california-closets-motion-6": {
+        "lines": ["california-closets-motion-6-1", "california-closets-motion-6-2"],
+        "id": "california-closets-motion-6",
+        "type": "text-module"
+    },
+    "california-closets-motion-7": {
+        "type": "image-body-module",
+        "image": "script.png",
+        "height": "500",
+        "link": {},
+        "id": "california-closets-motion-7"
+    },
+    "california-closets-motion-8-1": {
+        "title": "On the set",
+        "text": "Every angle, every light, every movement, was about creating the right mood. Light, easy, peaceful, relaxing.\n",
+        "size": "small",
+        "id": "california-closets-motion-8-1",
+        "type": "line"
+    },
+    "california-closets-motion-8-2": {
+        "text": "Taking off your shoes after work and putting them into the empty spot on the shoe shelf. Pulling just the right book off  shelf to read to your daughter. ",
+        "size": "small",
+        "id": "california-closets-motion-8-2",
+        "type": "line"
+    },
+    "california-closets-motion-8": {
+        "lines": ["california-closets-motion-8-1", "california-closets-motion-8-2"],
+        "id": "california-closets-motion-8",
+        "type": "text-module"
+    },
+    "california-closets-motion-9": {
+        "type": "image-body-module",
+        "image": "ccm_3.png",
+        "height": "500",
+        "link": {},
+        "id": "california-closets-motion-9"
+    },
+    "california-closets-motion-10-1": {
+        "title": "Writing relaxation",
+        "text": "The writing had to feel as simple as the video. Designed This is the stuff of life. The stuff that makes California Closets magical.\n\n",
+        "size": "small",
+        "id": "california-closets-motion-10-1",
+        "type": "line"
+    },
+    "california-closets-motion-10-2": {
+        "text": "\"It's exactly what I imagined.\"",
+        "size": "small",
+        "id": "california-closets-motion-10-2",
+        "type": "line"
+    },
+    "california-closets-motion-10": {
+        "lines": ["california-closets-motion-10-1", "california-closets-motion-10-2"],
+        "id": "california-closets-motion-10",
+        "type": "text-module"
+    },
+    "california-closets-motion-11": {
+        "type": "image-body-module",
+        "image": "ccm_1.png",
+        "height": 800,
+        "link": {},
+        "id": "california-closets-motion-11"
+    },
+    "illumio-branding": {
+        "id": "illumio-branding",
+        "name": "Illumio",
+        "subName": "branding",
+        "type": "work-page",
+        "modules": ["illumio-branding-1", "illumio-branding-2", "illumio-branding-3", "illumio-branding-4", "illumio-branding-5"]
+    },
+    "illumio-branding-1": {
+        "type": "image-hero-module",
+        "image": "illumio_hero.png",
+        "height": "500",
+        "link": {},
+        "id": "illumio-branding-1"
+    },
+    "illumio-branding-2-1": {
+        "title": "Illumio",
+        "text": "Unprecedented visibility",
+        "size": "large",
+        "id": "illumio-branding-2-1",
+        "type": "line"
+    },
+    "illumio-branding-2-2": {
+        "text": "A startup comes to you with an unprecedented solution for network visibility and security. They want a name that is short, descriptive and available as a .com",
+        "size": "small",
+        "id": "illumio-branding-2-2",
+        "type": "line"
+    },
+    "illumio-branding-2": {
+        "lines": ["illumio-branding-2-1", "illumio-branding-2-2"],
+        "id": "illumio-branding-2",
+        "type": "text-module"
+    },
+    "illumio-branding-3": {
+        "type": "image-body-module",
+        "image": "i_naming.png",
+        "height": "500",
+        "link": {},
+        "id": "illumio-branding-3"
+    },
+    "illumio-branding-4-1": {
+        "title": "Then there was a light",
+        "text": "We had our work cut out for us. We were set on using a word connected to visibility. Luckily, there are lots of them in the English language. ",
+        "size": "small",
+        "id": "illumio-branding-4-1",
+        "type": "line"
+    },
+    "illumio-branding-4-2": {
+        "text": "We created a list of hundreds of roots. Still, all paths kept leading back to illuminate. It captured the essence of the company.\n",
+        "size": "small",
+        "id": "illumio-branding-4-2",
+        "type": "line"
+    },
+    "illumio-branding-4-3": {
+        "text": "When one of our writers said Illumio, it was like light bulbs went on all over Silicon Valley. It was illuminating.",
+        "size": "small",
+        "id": "illumio-branding-4-3",
+        "type": "line"
+    },
+    "illumio-branding-4": {
+        "lines": ["illumio-branding-4-1", "illumio-branding-4-2", "illumio-branding-4-3"],
+        "id": "illumio-branding-4",
+        "type": "text-module"
+    },
+    "illumio-branding-5": {
+        "type": "image-body-module",
+        "image": "ilogo.png",
+        "height": "500",
+        "link": {},
+        "id": "illumio-branding-5"
+    },
+    "24-hours-fitness-display-advertising": {
+        "type": "work-page",
+        "name": "24 Hours Fitness",
+        "subName": "display advertising",
+        "image": "24_work_page.png",
+        "modules": ["24-hours-fitness-display-advertising-1", "24-hours-fitness-display-advertising-4", "24-hours-fitness-display-advertising-5", "24-hours-fitness-display-advertising-6", "24-hours-fitness-display-advertising-7"],
+        "id": "24-hours-fitness-display-advertising"
+    },
+    "24-hours-fitness-display-advertising-1": {
+        "type": "image-hero-module",
+        "image": "24_hero.png",
+        "height": 800,
+        "title": "*24 Hours Fitness:*\nInspiring the first step",
+        "link": {},
+        "id": "24-hours-fitness-display-advertising-1"
+    },
+    "24-hours-fitness-display-advertising-2-1": {
+        "type": "line",
+        "title": "24 Hours Fitness",
+        "text": "Inspiring the first step",
+        "size": "large",
+        "id": "24-hours-fitness-display-advertising-2-1"
+    },
+    "24-hours-fitness-display-advertising-2-2": {
+        "text": "We see marketing for 24 Hour Fitness as an act of human kindness. It's about inspiring people to be a better version of themselves.",
+        "size": "small",
+        "id": "24-hours-fitness-display-advertising-2-2",
+        "type": "line"
+    },
+    "24-hours-fitness-display-advertising-2": {
+        "lines": ["24-hours-fitness-display-advertising-2-1", "24-hours-fitness-display-advertising-2-2"],
+        "id": "24-hours-fitness-display-advertising-2",
+        "type": "text-module"
+    },
+    "24-hours-fitness-display-advertising-3": {
+        "type": "image-body-module",
+        "height": "500",
+        "id": "24-hours-fitness-display-advertising-3"
+    },
+    "24-hours-fitness-display-advertising-4-1": {
+        "title": "Strategy",
+        "text": "In this spring time display campaign, we tapped into that feeling of wanting to look and feel great for summer vacation.",
+        "size": "small",
+        "id": "24-hours-fitness-display-advertising-4-1",
+        "type": "line"
+    },
+    "24-hours-fitness-display-advertising-4": {
+        "lines": ["24-hours-fitness-display-advertising-4-1"],
+        "id": "24-hours-fitness-display-advertising-4",
+        "type": "text-module"
+    },
+    "24-hours-fitness-display-advertising-5": {
+        "type": "image-body-module",
+        "image": "24_banner_on_screen.png",
+        "height": 500,
+        "link": {},
+        "id": "24-hours-fitness-display-advertising-5"
+    },
+    "24-hours-fitness-display-advertising-6-1": {
+        "title": "The solution",
+        "text": "Beach scenes and bathing suits. Simple, yet powerful. ",
+        "size": "small",
+        "id": "24-hours-fitness-display-advertising-6-1",
+        "type": "line"
+    },
+    "24-hours-fitness-display-advertising-6": {
+        "lines": ["24-hours-fitness-display-advertising-6-1"],
+        "id": "24-hours-fitness-display-advertising-6",
+        "type": "text-module"
+    },
+    "24-hours-fitness-display-advertising-7": {
+        "type": "image-body-module",
+        "image": "24_last.png",
+        "height": 500,
+        "link": {},
+        "id": "24-hours-fitness-display-advertising-7"
+    },
+    "clorox-mobile-application": {
+        "type": "work-page",
+        "name": "Clorox",
+        "subName": "mobile application",
+        "image": "clorox_work.png",
+        "modules": ["clorox-mobile-application-1", "clorox-mobile-application-2", "clorox-mobile-application--b75ba536-ceab-4e34-a355-231a03952afd", "clorox-mobile-application-4", "clorox-mobile-application-5", "clorox-mobile-application-6", "clorox-mobile-application-7", "clorox-mobile-application-8", "clorox-mobile-application-9", "clorox-mobile-application-10", "clorox-mobile-application--83974cb9-e26e-4240-8bcf-30376aca7fd5"],
+        "id": "clorox-mobile-application"
+    },
+    "clorox-mobile-application-1": {
+        "type": "image-hero-module",
+        "image": "clorox_hero.png",
+        "height": 800,
+        "title": "*Clorox:*\nThe go to app for cleaning \n",
+        "link": {},
+        "id": "clorox-mobile-application-1"
+    },
+    "clorox-mobile-application-2-1": {
+        "type": "line",
+        "title": "Finding meaning",
+        "text": "We brainstormed with the Clorox team: what would be genuinely meaningful for a younger demographic?\n\n\n\n\n",
+        "size": "small",
+        "id": "clorox-mobile-application-2-1"
+    },
+    "clorox-mobile-application-2-2": {
+        "title": "Finding our target",
+        "text": "We learned that our target audience was no longer predominantly women devoting their days to cleaning at home. Life is messier. And often on the go. ",
+        "size": "small",
+        "id": "clorox-mobile-application-2-2",
+        "type": "line"
+    },
+    "clorox-mobile-application-2": {
+        "lines": ["clorox-mobile-application-2-1", "clorox-mobile-application-2-2"],
+        "id": "clorox-mobile-application-2",
+        "type": "text-module"
+    },
+    "clorox-mobile-application-3": {
+        "type": "image-body-module",
+        "image": "messy.png",
+        "height": 500,
+        "title": "mess on the go",
+        "text": "",
+        "link": {},
+        "id": "clorox-mobile-application-3"
+    },
+    "clorox-mobile-application-4-1": {
+        "title": "Challenge",
+        "text": "Clorox was heavily associated with bleach, whites and old ladies. They came to us to help create an app to rejuvenate the brand.",
+        "size": "small",
+        "id": "clorox-mobile-application-4-1",
+        "type": "line"
+    },
+    "clorox-mobile-application-4": {
+        "type": "text-module",
+        "lines": ["clorox-mobile-application-4-1"],
+        "id": "clorox-mobile-application-4"
+    },
+    "clorox-mobile-application-5": {
+        "type": "image-body-module",
+        "image": "clorox_wireframes.png",
+        "height": 500,
+        "title": "",
+        "link": {},
+        "id": "clorox-mobile-application-5"
+    },
+    "clorox-mobile-application-6-1": {
+        "title": "On-the-go tips",
+        "text": "Everyone needs on-the-go tips for cleaning up messes. We upped it by recommending ingredients that are commonly found when you're out and about.",
+        "size": "small",
+        "id": "clorox-mobile-application-6-1",
+        "type": "line"
+    },
+    "clorox-mobile-application-6-2": {
+        "title": "Finding the humor",
+        "text": "Even more, we wanted to give people the belly-bursting laugh that comes when you see life's mishaps in perspective. Functional and funny, wrapped up in together.",
+        "size": "small",
+        "id": "clorox-mobile-application-6-2",
+        "type": "line"
+    },
+    "clorox-mobile-application-6": {
+        "lines": ["clorox-mobile-application-6-1", "clorox-mobile-application-6-2"],
+        "id": "clorox-mobile-application-6",
+        "type": "text-module"
+    },
+    "clorox-mobile-application-7": {
+        "type": "image-body-module",
+        "image": "ice_cream.png",
+        "height": 500,
+        "title": "",
+        "link": {},
+        "id": "clorox-mobile-application-7"
+    },
+    "clorox-mobile-application-8-1": {
+        "title": "Spread the laughter",
+        "text": "We then migrated the app to Android. And reinvented the interface for the tablet. ",
+        "size": "small",
+        "id": "clorox-mobile-application-8-1",
+        "type": "line"
+    },
+    "clorox-mobile-application-8": {
+        "lines": ["clorox-mobile-application-8-1"],
+        "id": "clorox-mobile-application-8",
+        "type": "text-module"
+    },
+    "clorox-mobile-application-9": {
+        "type": "image-body-module",
+        "image": "clorox_phone_ipad.png",
+        "height": 500,
+        "title": "",
+        "link": {},
+        "id": "clorox-mobile-application-9"
+    },
+    "clorox-mobile-application-10-1": {
+        "title": "Results",
+        "text": "For the first time in Clorox's 100 year history, they received free promotional placements in major magazines. ",
+        "size": "small",
+        "id": "clorox-mobile-application-10-1",
+        "type": "line"
+    },
+    "clorox-mobile-application-10-2": {
+        "text": "Not to mention an Appy Award for Best Branded App.",
+        "size": "small",
+        "id": "clorox-mobile-application-10-2",
+        "type": "line"
+    },
+    "clorox-mobile-application-10": {
+        "lines": ["clorox-mobile-application-10-1", "clorox-mobile-application-10-2"],
+        "id": "clorox-mobile-application-10",
+        "type": "text-module"
+    },
+    "clorox-mobile-application-11": {
+        "type": "image-body-module",
+        "image": "clorox_people_article.png",
+        "height": 800,
+        "title": "",
+        "link": {},
+        "id": "clorox-mobile-application-11"
+    },
+    "autodesk-motion": {
+        "type": "work-page",
+        "name": "Autodesk",
+        "subName": "motion",
+        "image": "auto_motion_work_module.png",
+        "modules": ["autodesk-motion-1", "autodesk-motion--98a779a5-b235-44b9-be56-951a57a1bc9b", "autodesk-motion-7"],
+        "id": "autodesk-motion"
+    },
+    "autodesk-motion-1": {
+        "type": "image-hero-module",
+        "image": "autodesk_motion_screen_hero.png",
+        "height": 800,
+        "title": "*Autodesk:*\nBoiling it down",
+        "link": {},
+        "id": "autodesk-motion-1"
+    },
+    "autodesk-motion-2-1": {
+        "type": "line",
+        "title": "",
+        "text": "",
+        "size": "large",
+        "id": "autodesk-motion-2-1"
+    },
+    "autodesk-motion-2-2": {
+        "type": "line",
+        "text": "Autodesk software is feature rich. It's what makes it so incredible. And also what can make it difficult to sell. Simplify the message with a series of quick Top 5 slideshows. ",
+        "size": "small",
+        "id": "autodesk-motion-2-2"
+    },
+    "autodesk-motion-2": {
+        "lines": ["autodesk-motion-2-1", "autodesk-motion-2-2"],
+        "id": "autodesk-motion-2",
+        "type": "text-module"
+    },
+    "autodesk-motion-3": {
+        "type": "image-body-module",
+        "image": "autodesk_motion_reason5.png",
+        "height": "500",
+        "link": {},
+        "id": "autodesk-motion-3"
+    },
+    "autodesk-motion-4-1": {
+        "title": "The strategy",
+        "text": "We started with creating a script to highlight the top 5 features in action. While we love video, a slideshow allowed us to put the user in the driver seat.",
+        "size": "small",
+        "id": "autodesk-motion-4-1",
+        "type": "line"
+    },
+    "autodesk-motion-4": {
+        "lines": ["autodesk-motion-4-1"],
+        "id": "autodesk-motion-4",
+        "type": "text-module"
+    },
+    "autodesk-motion-5": {
+        "type": "image-body-module",
+        "height": "500",
+        "image": null,
+        "id": "autodesk-motion-5"
+    },
+    "autodesk-motion-6-1": {
+        "type": "line",
+        "title": "The execution",
+        "text": "We chapterized each feature and created a simple interface that allows users to easily navigate to see what's important to them.",
+        "size": "small",
+        "id": "autodesk-motion-6-1"
+    },
+    "autodesk-motion-6": {
+        "lines": ["autodesk-motion-6-1"],
+        "id": "autodesk-motion-6",
+        "type": "text-module"
+    },
+    "autodesk-motion-7": {
+        "type": "image-body-module",
+        "image": "auto_3.png",
+        "height": 500,
+        "link": {},
+        "id": "autodesk-motion-7"
+    },
+    "finding-rover-cross-platform-application": {
+        "type": "work-page",
+        "name": "Finding Rover",
+        "subName": "cross platform application",
+        "image": "FDR_social_work2.png",
+        "modules": ["finding-rover-cross-platform-application-1", "finding-rover-cross-platform-application-2", "finding-rover-cross-platform-application-3", "finding-rover-cross-platform-application-4", "finding-rover-cross-platform-application-5", "finding-rover-cross-platform-application-6", "finding-rover-cross-platform-application-7", "finding-rover-cross-platform-application-8", "finding-rover-cross-platform-application-9"],
+        "id": "finding-rover-cross-platform-application"
+    },
+    "finding-rover-cross-platform-application-1": {
+        "type": "image-hero-module",
+        "image": "FDR_social_hero.png",
+        "height": 800,
+        "title": "*Finding Rover:*\nThe app that saves dogs.",
+        "link": {},
+        "id": "finding-rover-cross-platform-application-1"
+    },
+    "finding-rover-cross-platform-application-2-1": {
+        "type": "line",
+        "title": "Background",
+        "text": "Did you know that around 7 million dogs are lost each year in the U.S. and only a small % return home safely? ",
+        "size": "small",
+        "id": "finding-rover-cross-platform-application-2-1"
+    },
+    "finding-rover-cross-platform-application-2-2": {
+        "type": "line",
+        "title": "Challenge",
+        "text": "\nIn walks John Polimeno, the inventor of facial recognition for dogs. John needed someone to design and build an app to make his brilliant idea come to life.",
+        "size": "small",
+        "id": "finding-rover-cross-platform-application-2-2"
+    },
+    "finding-rover-cross-platform-application-2": {
+        "lines": ["finding-rover-cross-platform-application-2-1", "finding-rover-cross-platform-application-2-2"],
+        "id": "finding-rover-cross-platform-application-2",
+        "type": "text-module"
+    },
+    "finding-rover-cross-platform-application-3": {
+        "type": "image-body-module",
+        "image": "FDR_new_wires.png",
+        "height": 500,
+        "link": {},
+        "id": "finding-rover-cross-platform-application-3"
+    },
+    "finding-rover-cross-platform-application-4-1": {
+        "type": "line",
+        "title": "Application Design",
+        "text": "This app is a leap forward in the special relationship between humans and dogs. See a lost dog? No need to drive it to a shelter. Or, as most people do,  walk away feeling guilty. Snap a photo, text the owner, done!",
+        "size": "small",
+        "id": "finding-rover-cross-platform-application-4-1"
+    },
+    "finding-rover-cross-platform-application-4": {
+        "type": "text-module",
+        "lines": ["finding-rover-cross-platform-application-4-1", "fcc18fd8-2323-41c7-9960-4dc2bb5c6612", "f9482fb3-f9e0-4385-990e-d4a1b97c6e45"],
+        "id": "finding-rover-cross-platform-application-4"
+    },
+    "finding-rover-cross-platform-application-5": {
+        "type": "image-body-module",
+        "image": "FDR_screens_arrows.png",
+        "height": 500,
+        "link": {},
+        "id": "finding-rover-cross-platform-application-5"
+    },
+    "finding-rover-cross-platform-application-6-1": {
+        "type": "line",
+        "title": "The execution",
+        "text": "The app had to be coded on a start up budget, and it had to be able to scale instantly. Our approach was to leverage as much 3rd party code as we could, without sacrificing the experience. For the backend, we used Parse, a robust solution that scales together with you.",
+        "size": "small",
+        "id": "finding-rover-cross-platform-application-6-1"
+    },
+    "finding-rover-cross-platform-application-6": {
+        "type": "text-module",
+        "lines": ["finding-rover-cross-platform-application-6-1", "97787c17-863f-4006-8b6f-cf108b542e04"],
+        "id": "finding-rover-cross-platform-application-6"
+    },
+    "finding-rover-cross-platform-application-7": {
+        "type": "image-body-module",
+        "image": "app_dog_feet.png",
+        "height": 500,
+        "link": {},
+        "id": "finding-rover-cross-platform-application-7"
+    },
+    "finding-rover-cross-platform-application-8-1": {
+        "title": "The results",
+        "text": "Finding Rover took home 2 Communicator Awards.\nBut what really counts is the countless dogs that are being returned home safely every day.",
+        "size": "small",
+        "id": "finding-rover-cross-platform-application-8-1",
+        "type": "line"
+    },
+    "finding-rover-cross-platform-application-8": {
+        "lines": ["finding-rover-cross-platform-application-8-1"],
+        "id": "finding-rover-cross-platform-application-8",
+        "type": "text-module"
+    },
+    "finding-rover-cross-platform-application-9": {
+        "type": "image-body-module",
+        "image": "FDR_social_last.png",
+        "height": 500,
+        "link": {},
+        "id": "finding-rover-cross-platform-application-9"
+    },
+    "cisco-mobile-application": {
+        "type": "work-page",
+        "name": "Cisco",
+        "subName": "mobile application",
+        "image": "cisco_mobile_small.png",
+        "modules": ["cisco-mobile-application-1", "cisco-mobile-application--56731275-b373-49e0-8c4b-027f2fe63c8a", "cisco-mobile-application-3", "cisco-mobile-application-4", "cisco-mobile-application-5", "cisco-mobile-application-6", "cisco-mobile-application-7", "cisco-mobile-application-8", "cisco-mobile-application-9", "cisco-mobile-application-10", "cisco-mobile-application-11"],
+        "id": "cisco-mobile-application"
+    },
+    "cisco-mobile-application-1": {
+        "type": "image-hero-module",
+        "image": "cm_hero.png",
+        "height": 800,
+        "title": "*Cisco:*\nOn-the-fly Solutions",
+        "link": {},
+        "id": "cisco-mobile-application-1"
+    },
+    "cisco-mobile-application-2-1": {
+        "type": "line",
+        "title": "",
+        "text": "",
+        "size": "large",
+        "id": "cisco-mobile-application-2-1"
+    },
+    "cisco-mobile-application-2-2": {
+        "text": "Cisco came to us with a great challenge: Create a tablet app to help Partners sell complex solutions more efficiently. ",
+        "size": "small",
+        "id": "cisco-mobile-application-2-2",
+        "type": "line"
+    },
+    "cisco-mobile-application-2": {
+        "lines": ["cisco-mobile-application-2-1", "cisco-mobile-application-2-2"],
+        "id": "cisco-mobile-application-2",
+        "type": "text-module"
+    },
+    "cisco-mobile-application-3": {
+        "type": "image-body-module",
+        "image": "cisco_mobile_data_center.png",
+        "height": 500,
+        "title": "",
+        "link": {},
+        "id": "cisco-mobile-application-3"
+    },
+    "cisco-mobile-application-4-1": {
+        "title": "The art of listening",
+        "text": "First we immersed ourselves in the life of a Partner. What was working well, and what wasn't?",
+        "size": "small",
+        "id": "cisco-mobile-application-4-1",
+        "type": "line"
+    },
+    "cisco-mobile-application-4-2": {
+        "title": "",
+        "text": "We found it's no small challenge to stay up to date with the rapidly changing product line. Not to mention creating on-the-fly solutions for small businesses. With pricing. And, sure would be nice to make the routers look sexy. (Seriously, we heard that again and again.)",
+        "size": "small",
+        "id": "cisco-mobile-application-4-2",
+        "type": "line"
+    },
+    "cisco-mobile-application-4": {
+        "lines": ["cisco-mobile-application-4-1", "cisco-mobile-application-4-2"],
+        "id": "cisco-mobile-application-4",
+        "type": "text-module"
+    },
+    "cisco-mobile-application-5": {
+        "type": "image-body-module",
+        "image": "process.png",
+        "height": 500,
+        "title": "",
+        "link": {},
+        "id": "cisco-mobile-application-5"
+    },
+    "cisco-mobile-application-6-1": {
+        "title": "Complex made simple",
+        "text": "We designed the app to help Partners connect with customers, not burry themselves in the experience and lose that human touch. ",
+        "size": "small",
+        "id": "cisco-mobile-application-6-1",
+        "type": "line"
+    },
+    "cisco-mobile-application-6-2": {
+        "title": "",
+        "text": "We created a simple interface to interview customers about their needs. Milliseconds later, a pre-configured solution displays. Partners can then easily walk through the solution and customize it further.\n\n\n",
+        "size": "small",
+        "id": "cisco-mobile-application-6-2",
+        "type": "line"
+    },
+    "cisco-mobile-application-6-3": {
+        "title": "",
+        "text": "Oh, and with just a tap, view a darn good 3D picture of a router. Oh yeah!",
+        "size": "small",
+        "id": "cisco-mobile-application-6-3",
+        "type": "line"
+    },
+    "cisco-mobile-application-6": {
+        "lines": ["cisco-mobile-application-6-1", "cisco-mobile-application-6-2", "cisco-mobile-application-6-3"],
+        "id": "cisco-mobile-application-6",
+        "type": "text-module"
+    },
+    "cisco-mobile-application-7": {
+        "type": "image-body-module",
+        "image": "router.png",
+        "height": 500,
+        "title": "",
+        "link": {},
+        "id": "cisco-mobile-application-7"
+    },
+    "cisco-mobile-application-8-1": {
+        "title": "Behind the scenes",
+        "text": "We put as much love into the backend as the front end. We wanted to make sure it was dead simple to keep the product line up to date. ",
+        "size": "small",
+        "id": "cisco-mobile-application-8-1",
+        "type": "line"
+    },
+    "cisco-mobile-application-8": {
+        "lines": ["cisco-mobile-application-8-1"],
+        "id": "cisco-mobile-application-8",
+        "type": "text-module"
+    },
+    "cisco-mobile-application-9": {
+        "type": "image-body-module",
+        "image": "cms_ipad_air2.png",
+        "height": 500,
+        "link": {},
+        "id": "cisco-mobile-application-9"
+    },
+    "cisco-mobile-application-10-1": {
+        "title": "Results",
+        "text": "Partners raved about the app.  And when Cisco shifted their business strategy, they asked us to create a sister app for MidMarket.",
+        "size": "small",
+        "id": "cisco-mobile-application-10-1",
+        "type": "line"
+    },
+    "cisco-mobile-application-10": {
+        "lines": ["cisco-mobile-application-10-1"],
+        "id": "cisco-mobile-application-10",
+        "type": "text-module"
+    },
+    "cisco-mobile-application-11": {
+        "type": "image-body-module",
+        "image": "cce_screens.png",
+        "height": 500,
+        "link": {},
+        "id": "cisco-mobile-application-11"
+    },
+    "cisco-motion": {
+        "type": "work-page",
+        "name": "Cisco",
+        "subName": "motion",
+        "image": "cisco_motion_smaller.png",
+        "modules": ["cisco-motion-1", "cisco-motion-2", "cisco-motion-3", "cisco-motion-4", "cisco-motion--9d918a69-84a3-4db9-8c4f-573d1b1f39f6", "cisco-motion-6", "cisco-motion--9548421d-1c1b-4490-9538-5c495eadeb3b", "cisco-motion-8", "cisco-motion-9", "cisco-motion-10", "cisco-motion-11"],
+        "id": "cisco-motion"
+    },
+    "cisco-motion-1": {
+        "type": "image-hero-module",
+        "image": "cisco_motion_hero3.png",
+        "height": 800,
+        "title": "*Cisco:* \nCreating a movement in honesty",
+        "link": {},
+        "id": "cisco-motion-1"
+    },
+    "cisco-motion-2-1": {
+        "type": "line",
+        "title": "Background",
+        "text": "Cisco faced a significant challenge with their certification program that serves over a million folks worldwide. As testing had moved online, cheating has become more rampant.  ",
+        "size": "small",
+        "id": "cisco-motion-2-1"
+    },
+    "cisco-motion-2-2": {
+        "type": "line",
+        "title": "Challenge",
+        "text": "Cisco tasked us with creating nothing short of a cultural movement: reset ethical behavior as a company norm.",
+        "size": "small",
+        "id": "cisco-motion-2-2"
+    },
+    "cisco-motion-2": {
+        "lines": ["cisco-motion-2-1", "cisco-motion-2-2"],
+        "id": "cisco-motion-2",
+        "type": "text-module"
+    },
+    "cisco-motion-3": {
+        "type": "image-body-module",
+        "image": "cisco_motion_whiteboard_02.png",
+        "height": 500,
+        "title": "",
+        "link": {},
+        "id": "cisco-motion-3"
+    },
+    "cisco-motion-4-1": {
+        "title": "Research",
+        "text": "Our approach was to investigate what methods have been proven to reduce cheating the most successfully. We wanted hard facts, not just mushy hypotheses.",
+        "size": "small",
+        "id": "cisco-motion-4-1",
+        "type": "line"
+    },
+    "cisco-motion-4-2": {
+        "title": "",
+        "text": "We found Dan Ariely, who has done incredible work in the field. His experiments show that reminding people not to cheat before an exam reduces cheating by up to 40%. ",
+        "size": "small",
+        "id": "cisco-motion-4-2",
+        "type": "line"
+    },
+    "cisco-motion-4-3": {
+        "type": "line",
+        "title": "",
+        "text": "We asked Ariely and a team of other scholars to collaborate on the project. The stakes were high. We wanted science on our side.",
+        "size": "small",
+        "id": "cisco-motion-4-3"
+    },
+    "cisco-motion-4": {
+        "lines": ["cisco-motion-4-1", "cisco-motion-4-2", "cisco-motion-4-3"],
+        "id": "cisco-motion-4",
+        "type": "text-module"
+    },
+    "cisco-motion-5": {
+        "type": "image-body-module",
+        "image": "cisco_motion_quote.png",
+        "height": 800,
+        "title": "cisco whiteboards (ask Suzanne)",
+        "text": "",
+        "link": {},
+        "id": "cisco-motion-5"
+    },
+    "cisco-motion-6-1": {
+        "type": "line",
+        "title": "Entertainment",
+        "text": "But no one likes nagging. We knew the approach had to be about having fun as well. We had to meet people where they are.",
+        "size": "small",
+        "id": "cisco-motion-6-1"
+    },
+    "cisco-motion-6-2": {
+        "title": "Potato chips",
+        "text": "So we decided on a series of short, funny videos since our audiences loved to consume and share them like potato chips.",
+        "size": "small",
+        "id": "cisco-motion-6-2",
+        "type": "line"
+    },
+    "cisco-motion-6": {
+        "lines": ["cisco-motion-6-1", "cisco-motion-6-2"],
+        "id": "cisco-motion-6",
+        "type": "text-module"
+    },
+    "cisco-motion-7": {
+        "type": "image-body-module",
+        "image": "sketches.png",
+        "height": 800,
+        "title": "",
+        "link": {},
+        "id": "cisco-motion-7"
+    },
+    "cisco-motion-8-1": {
+        "title": "Geek Writing",
+        "text": "The audience was pure geek. And global. Who better than a writer from the Big Ban Theory? We brought one of their lead writers on board.",
+        "size": "small",
+        "id": "cisco-motion-8-1",
+        "type": "line"
+    },
+    "cisco-motion-8-2": {
+        "title": "14 Videos",
+        "text": "Each video starts with an ethical reminder, followed by a humorous skit that enacts the reminder.",
+        "size": "small",
+        "id": "cisco-motion-8-2",
+        "type": "line"
+    },
+    "cisco-motion-8": {
+        "lines": ["cisco-motion-8-1", "cisco-motion-8-2"],
+        "id": "cisco-motion-8",
+        "type": "text-module"
+    },
+    "cisco-motion-9": {
+        "type": "image-body-module",
+        "image": "cisco_motion_movies.png",
+        "height": 500,
+        "title": "",
+        "link": {},
+        "id": "cisco-motion-9"
+    },
+    "cisco-motion-10-1": {
+        "title": "Rave reviews",
+        "text": "\"Dream team!\" \"Revolutionary!\" \n(We love accolades from our clients.) ",
+        "size": "large",
+        "id": "cisco-motion-10-1",
+        "type": "line"
+    },
+    "cisco-motion-10-2": {
+        "text": "The videos also won a Communicator Award for Social Responsibility.",
+        "size": "large",
+        "id": "cisco-motion-10-2",
+        "type": "line"
+    },
+    "cisco-motion-10": {
+        "lines": ["cisco-motion-10-1", "cisco-motion-10-2"],
+        "id": "cisco-motion-10",
+        "type": "text-module"
+    },
+    "cisco-motion-11": {
+        "type": "image-body-module",
+        "image": "cisco_motion_one_movie.png",
+        "height": 500,
+        "title": "\n",
+        "link": {},
+        "id": "cisco-motion-11"
+    },
+    "autodesk-nurture-marketing-campaign": {
+        "type": "work-page",
+        "name": "Autodesk Nurture",
+        "subName": "marketing campaign",
+        "image": "work_page_wider_phase2.png",
+        "modules": ["autodesk-nurture-marketing-campaign-1", "autodesk-nurture-marketing-campaign-2", "autodesk-nurture-marketing-campaign-3", "autodesk-nurture-marketing-campaign-5", "autodesk-nurture-marketing-campaign-7"],
+        "id": "autodesk-nurture-marketing-campaign"
+    },
+    "autodesk-nurture-marketing-campaign-1": {
+        "type": "image-hero-module",
+        "image": "autodesk-nurture-01.jpg",
+        "height": 500,
+        "title": "[ blank image ]",
+        "link": {},
+        "id": "autodesk-nurture-marketing-campaign-1"
+    },
+    "autodesk-nurture-marketing-campaign-2-1": {
+        "title": "Autodesk",
+        "text": "Helping user adopt the software.",
+        "size": "large",
+        "id": "autodesk-nurture-marketing-campaign-2-1",
+        "type": "line"
+    },
+    "autodesk-nurture-marketing-campaign-2": {
+        "lines": ["autodesk-nurture-marketing-campaign-2-1"],
+        "id": "autodesk-nurture-marketing-campaign-2",
+        "type": "text-module"
+    },
+    "autodesk-nurture-marketing-campaign-3": {
+        "type": "image-body-module",
+        "title": "",
+        "height": "500",
+        "id": "autodesk-nurture-marketing-campaign-3"
+    },
+    "autodesk-nurture-marketing-campaign-5": {
+        "type": "image-body-module",
+        "title": "",
+        "height": "500",
+        "id": "autodesk-nurture-marketing-campaign-5"
+    },
+    "autodesk-nurture-marketing-campaign-7": {
+        "type": "image-body-module",
+        "title": "",
+        "height": "500",
+        "id": "autodesk-nurture-marketing-campaign-7"
+    },
+    "sf-jazz-website": {
+        "type": "work-page",
+        "name": "SF Jazz",
+        "subName": "website",
+        "image": "sfjazz_small.png",
+        "modules": ["sf-jazz-website-1", "sf-jazz-website-2", "sf-jazz-website-3", "sf-jazz-website-4", "sf-jazz-website-5", "sf-jazz-website-6", "sf-jazz-website-7", "sf-jazz-website-8", "sf-jazz-website-9", "sf-jazz-website-10", "sf-jazz-website-11"],
+        "id": "sf-jazz-website"
+    },
+    "sf-jazz-website-1": {
+        "type": "image-hero-module",
+        "image": "sfj_hero.png",
+        "height": 800,
+        "title": "*SFJazz:*\nRobust and smooth",
+        "link": {},
+        "id": "sf-jazz-website-1"
+    },
+    "sf-jazz-website-2-1": {
+        "text": "As the world's leading jazz institution and over 300 performances a year, SFJAZZ needed a site that felt smooth, but could handle some serious heavy lifting. ",
+        "size": "small",
+        "id": "sf-jazz-website-2-1",
+        "type": "line"
+    },
+    "sf-jazz-website-2-2": {
+        "text": "The site needed to seamlessly integrate performance promotion, ticket sales, and education. And perhaps even more importantly, inspire donations for a world class performance center. ",
+        "size": "small",
+        "id": "sf-jazz-website-2-2",
+        "type": "line"
+    },
+    "sf-jazz-website-2": {
+        "lines": ["sf-jazz-website-2-1", "sf-jazz-website-2-2"],
+        "id": "sf-jazz-website-2",
+        "type": "text-module"
+    },
+    "sf-jazz-website-3": {
+        "type": "image-body-module",
+        "image": "sfjazz_wires.png",
+        "height": 500,
+        "link": {},
+        "id": "sf-jazz-website-3"
+    },
+    "sf-jazz-website-4-1": {
+        "title": "Listening ",
+        "text": "Dusting off our old vinyl of \"A Love Supreme,\" we listened not only to the music, but to the incredible people in the community. How could we help SFJAZZ inspire people to engage on all these levels in a way that felt smooth?",
+        "size": "small",
+        "id": "sf-jazz-website-4-1",
+        "type": "line"
+    },
+    "sf-jazz-website-4": {
+        "lines": ["sf-jazz-website-4-1"],
+        "id": "sf-jazz-website-4",
+        "type": "text-module"
+    },
+    "sf-jazz-website-5": {
+        "type": "image-body-module",
+        "image": "sfjazz_mock.png",
+        "height": 500,
+        "link": {},
+        "id": "sf-jazz-website-5"
+    },
+    "sf-jazz-website-6-1": {
+        "title": "The spotlights",
+        "text": "We designed the hero space with 2 CTA's that are separate and yet together, like two melodies that harmonize together. Buy tickets to an upcoming show... and donate. ",
+        "size": "small",
+        "id": "sf-jazz-website-6-1",
+        "type": "line"
+    },
+    "sf-jazz-website-6-2": {
+        "title": "",
+        "text": "And playing second string are education and community. Listen, learn and love. ",
+        "size": "small",
+        "id": "sf-jazz-website-6-2",
+        "type": "line"
+    },
+    "sf-jazz-website-6": {
+        "lines": ["sf-jazz-website-6-1", "sf-jazz-website-6-2"],
+        "id": "sf-jazz-website-6",
+        "type": "text-module"
+    },
+    "sf-jazz-website-7": {
+        "type": "image-body-module",
+        "image": "sfjazz_laptop_with_background2.png",
+        "height": 500,
+        "link": {},
+        "id": "sf-jazz-website-7"
+    },
+    "sf-jazz-website-8-1": {
+        "title": "Behind the curtain",
+        "text": "The back-end is beautifully simple so that the good people of SFJAZZ can easily keep the concert schedules up to date. After launch, they never picked up the phone once to ask for help. (Pity, cause we missed them!)\n\n",
+        "size": "small",
+        "id": "sf-jazz-website-8-1",
+        "type": "line"
+    },
+    "sf-jazz-website-8": {
+        "lines": ["sf-jazz-website-8-1"],
+        "id": "sf-jazz-website-8",
+        "type": "text-module"
+    },
+    "sf-jazz-website-9": {
+        "type": "image-body-module",
+        "image": "sfjazz_ipad.png",
+        "height": 500,
+        "link": {},
+        "id": "sf-jazz-website-9"
+    },
+    "sf-jazz-website-10-1": {
+        "title": "The Applause",
+        "text": "The site design inspired so many people to donate to the building campaign that SFJAZZ opened the first stand-alone structure devoted to jazz in the country. 36,000 square feet (plus a website) of jazz. Ahhh.",
+        "size": "small",
+        "id": "sf-jazz-website-10-1",
+        "type": "line"
+    },
+    "sf-jazz-website-10": {
+        "lines": ["sf-jazz-website-10-1"],
+        "id": "sf-jazz-website-10",
+        "type": "text-module"
+    },
+    "sf-jazz-website-11": {
+        "type": "image-body-module",
+        "image": "sfj_final.png",
+        "height": 500,
+        "link": {},
+        "id": "sf-jazz-website-11"
+    },
+    "aptara-website": {
+        "type": "work-page",
+        "name": "Test",
+        "subName": "Test",
+        "image": "grey_block.png",
+        "modules": ["aptara-website-1", "aptara-website-2", "aptara-website-3", "aptara-website-4", "aptara-website-5"],
+        "id": "aptara-website"
+    },
+    "aptara-website-1": {
+        "type": "image-hero-module",
+        "title": "",
+        "image": "Aptara-Website-Home-656-03.jpg",
+        "height": "656",
+        "id": "aptara-website-1"
+    },
+    "aptara-website-2-1": {
+        "title": "Lorem ipsum",
+        "text": "Phasellus iaculis, est at lacinia vestibulum, elit ex cursus mauris, et laoreet leo arcu eu enim. Ut laoreet odio a porttitor tincidunt.",
+        "size": "small",
+        "id": "aptara-website-2-1",
+        "type": "line"
+    },
+    "aptara-website-2": {
+        "lines": ["aptara-website-2-1"],
+        "id": "aptara-website-2",
+        "type": "text-module"
+    },
+    "aptara-website-3": {
+        "type": "image-hero-module",
+        "height": "500",
+        "image": "Aptara-User-500.jpg",
+        "id": "aptara-website-3"
+    },
+    "aptara-website-4-1": {
+        "title": " Phasellus iaculis",
+        "text": "Integer eget dictum nibh. Suspendisse potenti. Vivamus accumsan, diam quis dapibus porttitor, metus tellus sagittis sem, ut fermentum metus nunc ac urna. ",
+        "size": "small",
+        "id": "aptara-website-4-1",
+        "type": "line"
+    },
+    "aptara-website-4": {
+        "lines": ["aptara-website-4-1"],
+        "id": "aptara-website-4",
+        "type": "text-module"
+    },
+    "aptara-website-5": {
+        "type": "image-body-module",
+        "height": "500",
+        "image": "Aptara-Footer-500-02.jpg",
+        "id": "aptara-website-5"
+    },
+    "california-closets-website": {
+        "type": "work-page",
+        "name": "California Closets",
+        "subName": "website",
+        "image": "cc_web_work_module_bigger.png",
+        "modules": ["california-closets-website--dc698609-e19f-4c1c-963c-e554787c0689", "california-closets-website-4", "california-closets-website-5", "california-closets-website-6", "california-closets-website-7", "california-closets-website-8", "california-closets-website-9", "california-closets-website-10", "california-closets-website-11"],
+        "id": "california-closets-website"
+    },
+    "california-closets-website-1": {
+        "type": "image-hero-module",
+        "image": "cc_hero.png",
+        "height": 31,
+        "title": "California Closets:  A journey up market",
+        "link": {},
+        "id": "california-closets-website-1"
+    },
+    "california-closets-website-2-1": {
+        "title": "Challenge",
+        "text": "Shifting a brand upscale successfully is rare. It involves Our challenge was to inspire people to associate of closets with sophistication?",
+        "size": "small",
+        "id": "california-closets-website-2-1",
+        "type": "line"
+    },
+    "california-closets-website-2": {
+        "lines": ["california-closets-website-2-1"],
+        "id": "california-closets-website-2",
+        "type": "text-module"
+    },
+    "california-closets-website-3": {
+        "type": "image-body-module",
+        "image": "cc_web_hero.png",
+        "height": 800,
+        "title": "ask Igor if he could create something like this\n",
+        "text": "ask Igor if he could create something like this\n",
+        "link": {},
+        "id": "california-closets-website-3"
+    },
+    "california-closets-website-4-1": {
+        "title": "Exploration",
+        "text": "We researched everything from color associations to navigation to site behavior. We moved the dials up and down to study how to best inspire feelings of elegance and peace-of-mind. ",
+        "size": "small",
+        "id": "california-closets-website-4-1",
+        "type": "line"
+    },
+    "california-closets-website-4": {
+        "type": "text-module",
+        "lines": ["california-closets-website-4-1"],
+        "id": "california-closets-website-4"
+    },
+    "california-closets-website-5": {
+        "type": "image-body-module",
+        "image": "cc_colors_sketches.png",
+        "height": 500,
+        "title": "",
+        "link": {},
+        "id": "california-closets-website-5"
+    },
+    "california-closets-website-6-1": {
+        "title": "The Welcome",
+        "text": "The consultation intake form is essential to business; but we knew that making the form too prominent would cheapen the brand. No one wants to date you when you're too eager.",
+        "size": "small",
+        "id": "california-closets-website-6-1",
+        "type": "line"
+    },
+    "california-closets-website-6-2": {
+        "type": "line",
+        "text": "We designed the form to gently roll down as you enter the site. It's like it says hello without saying a thing. By adding the roll down, we also help the user feel empowered to roll it back up. Click hide and we get the message.",
+        "size": "small",
+        "id": "california-closets-website-6-2"
+    },
+    "california-closets-website-6": {
+        "lines": ["california-closets-website-6-1", "california-closets-website-6-2"],
+        "id": "california-closets-website-6",
+        "type": "text-module"
+    },
+    "california-closets-website-7": {
+        "type": "image-body-module",
+        "image": "cc_form4.png",
+        "height": 500,
+        "link": {},
+        "id": "california-closets-website-7"
+    },
+    "california-closets-website-8-1": {
+        "title": "Information underload",
+        "text": "We also worked to create the balance in the amount of information and promotion we offered on the site. By dialing down the design to its most basic elements, color and font, the information invites you to read, and the call to action prompts you to click.",
+        "size": "small",
+        "id": "california-closets-website-8-1",
+        "type": "line"
+    },
+    "california-closets-website-8": {
+        "lines": ["california-closets-website-8-1"],
+        "id": "california-closets-website-8",
+        "type": "text-module"
+    },
+    "california-closets-website-9": {
+        "type": "image-body-module",
+        "image": "cc_computer_background.png",
+        "height": 500,
+        "link": {},
+        "id": "california-closets-website-9"
+    },
+    "california-closets-website-10-1": {
+        "title": "Results",
+        "text": "+ 262% leads",
+        "size": "large",
+        "id": "california-closets-website-10-1",
+        "type": "line"
+    },
+    "california-closets-website-10-2": {
+        "text": "+ 16% Appointments",
+        "size": "large",
+        "id": "california-closets-website-10-2",
+        "type": "line"
+    },
+    "california-closets-website-10-3": {
+        "text": "+ 22% Revenue",
+        "size": "large",
+        "id": "california-closets-website-10-3",
+        "type": "line"
+    },
+    "california-closets-website-10": {
+        "lines": ["california-closets-website-10-1", "california-closets-website-10-2", "california-closets-website-10-3"],
+        "id": "california-closets-website-10",
+        "type": "text-module"
+    },
+    "california-closets-website-11": {
+        "type": "image-body-module",
+        "image": "cc_web_final.png",
+        "height": 500,
+        "link": {},
+        "id": "california-closets-website-11"
+    },
+    "vectra-branding": {
+        "id": "vectra-branding",
+        "name": "Vectra",
+        "subName": "branding",
+        "type": "work-page",
+        "modules": ["vectra-branding-1", "vectra-branding-2", "vectra-branding-3", "vectra-branding-4", "vectra-branding-5", "vectra-branding-6", "vectra-branding-7", "vectra-branding-8", "vectra-branding-9", "vectra-branding-10", "vectra-branding-11"]
+    },
+    "vectra-branding-1": {
+        "type": "image-hero-module",
+        "image": "vectra_hero.png",
+        "height": 769,
+        "title": "Vectra: Simple and Secure",
+        "link": {},
+        "id": "vectra-branding-1"
+    },
+    "vectra-branding-2-1": {
+        "title": "Challenge",
+        "text": "With a brilliant team of engineers with a revolutionary approach to security, Vectra needed everything from a name to a brand identity.",
+        "size": "small",
+        "id": "vectra-branding-2-1",
+        "type": "line"
+    },
+    "vectra-branding-2-2": {
+        "text": "Our challenge was to create a brand system that elicits the feeling of high tech security and simplicity ",
+        "size": "small",
+        "id": "vectra-branding-2-2",
+        "type": "line"
+    },
+    "vectra-branding-2": {
+        "lines": ["vectra-branding-2-1", "vectra-branding-2-2"],
+        "id": "vectra-branding-2",
+        "type": "text-module"
+    },
+    "vectra-branding-3": {
+        "type": "image-body-module",
+        "image": "v2.png",
+        "height": "500",
+        "link": {},
+        "id": "vectra-branding-3"
+    },
+    "vectra-branding-4-1": {
+        "title": "Discovery",
+        "text": "We sought out to find an identity that truly captured the character and energy of this company in the overcrowded streets of the Internet.\n",
+        "size": "small",
+        "id": "vectra-branding-4-1",
+        "type": "line"
+    },
+    "vectra-branding-4-2": {
+        "title": "",
+        "text": "We started by immersing ourselves in the security landscape and then learning Vectra's unique approach to leap forward. More than just learning about their software, we got to know the personality of the company.\n",
+        "size": "small",
+        "id": "vectra-branding-4-2",
+        "type": "line"
+    },
+    "vectra-branding-4": {
+        "lines": ["vectra-branding-4-1", "vectra-branding-4-2"],
+        "id": "vectra-branding-4",
+        "type": "text-module"
+    },
+    "vectra-branding-5": {
+        "type": "image-body-module",
+        "image": "v3.png",
+        "height": "500",
+        "link": {},
+        "id": "vectra-branding-5"
+    },
+    "vectra-branding-6-1": {
+        "title": "What's in a name?",
+        "text": "Our approach was both science and art. We scoured the landscape for a long list of potential words, roots, pre-fixes and endings. Then we created hundreds and hundreds of combinations.  \n\n",
+        "size": "small",
+        "id": "vectra-branding-6-1",
+        "type": "line"
+    },
+    "vectra-branding-6-2": {
+        "text": "Then came the art. Which name had all the qualities we were looking for, plus went one step further, singing its way to everyone's heart?  Vectra... and suddenly a name, will never be the same, Vectra...",
+        "size": "small",
+        "id": "vectra-branding-6-2",
+        "type": "line"
+    },
+    "vectra-branding-6": {
+        "lines": ["vectra-branding-6-1", "vectra-branding-6-2"],
+        "id": "vectra-branding-6",
+        "type": "text-module"
+    },
+    "vectra-branding-7": {
+        "type": "image-body-module",
+        "image": "vcomp.png",
+        "height": "500",
+        "link": {},
+        "id": "vectra-branding-7"
+    },
+    "vectra-branding-8-1": {
+        "title": "Logo",
+        "text": "The logo had to reflect the plug and play simplicity of the product, and yet feel technical and, well, secure. ",
+        "size": "small",
+        "id": "vectra-branding-8-1",
+        "type": "line"
+    },
+    "vectra-branding-8-2": {
+        "text": "With a simple flip of the first letter V, like a switch, we get the last letter to close off the name.\n",
+        "size": "small",
+        "id": "vectra-branding-8-2",
+        "type": "line"
+    },
+    "vectra-branding-8-3": {
+        "text": "And the iconographic representation combines the V and A into a line graph, symbolizing the always-on security monitoring of the company. Roll over it and it's dynamic.",
+        "size": "small",
+        "id": "vectra-branding-8-3",
+        "type": "line"
+    },
+    "vectra-branding-8": {
+        "lines": ["vectra-branding-8-1", "vectra-branding-8-2", "vectra-branding-8-3"],
+        "id": "vectra-branding-8",
+        "type": "text-module"
+    },
+    "vectra-branding-9": {
+        "type": "image-body-module",
+        "image": "v_logo.png",
+        "link": {},
+        "id": "vectra-branding-9"
+    },
+    "vectra-branding-10-1": {
+        "title": "Web design",
+        "text": "Somethings here about web design.",
+        "size": "large",
+        "id": "vectra-branding-10-1",
+        "type": "line"
+    },
+    "vectra-branding-10": {
+        "lines": ["vectra-branding-10-1"],
+        "id": "vectra-branding-10",
+        "type": "text-module"
+    },
+    "vectra-branding-11": {
+        "type": "image-body-module",
+        "image": "vcomp.png",
+        "link": {},
+        "id": "vectra-branding-11"
+    },
+    "work":{
+        "type": "page",
+        "name": "Work",
+        "path": "/work",
+        "modules": ["work-hero",  "work-overview"],
+        "id": "work"
+    },
+    "work-overview": {
+        "type": "work-overview",
+        "categories": ["work-1", "work-2", "c7cc2407-ccaa-4a02-bd0c-8f7e8e784989", "a138aebc-276d-4eb4-bb75-c428bbf37781", "7e6fff0c-3914-4496-93df-da3692b194ef", "752db872-bd7f-4dd9-b45b-32be12ac5a44", "e4560bce-5d30-420f-b11c-592a64d11e30"],
+        "id": "work-overview"
+    },
+    "work-hero": {
+        "type": "image-hero-module",
+        "image": "00__work_page_hero_2000x800_v0_at.png",
+        "height": 800,
+        "title": "We reach far \nto inspire your audience",
+        "link": {},
+        "id": "work-hero"
+    },
+    "work-1": {
+        "type": "work-category",
+        "name": "Websites",
+        "items": ["california-closets-website", "sf-jazz-website", "sungevity-website", "vode-website"],
+        "id": "work-1"
+    },
+    "work-2": {
+        "type": "work-category",
+        "name": "Mobile",
+        "items": ["clorox-mobile-application", "finding-rover-cross-platform-application", "cisco-mobile-application"],
+        "id": "work-2"
+    },
+    "vode-website--a5b8f246-5dd6-4d5e-b422-c9fb89681ab0": {
+        "type": "image-hero-module",
+        "link": {},
+        "id": "vode-website--a5b8f246-5dd6-4d5e-b422-c9fb89681ab0"
+    },
+    "vode-website--ebb19664-a54e-4c2e-b95a-bc00260aefd6": {
+        "type": "image-hero-module",
+        "image": "vode_hero.png",
+        "height": 800,
+        "title": "*Vode: \nSimply Illuminated",
+        "link": {},
+        "id": "vode-website--ebb19664-a54e-4c2e-b95a-bc00260aefd6"
+    },
+    "257cbbcb-0b2a-4a97-b860-1299ec21ddad": {
+        "type": "image-hero-module",
+        "image": "vectra_hero_screens.png",
+        "height": 800,
+        "title": "*Vectra:*\nCreating the feeling of security\n",
+        "link": {},
+        "id": "257cbbcb-0b2a-4a97-b860-1299ec21ddad"
+    },
+    "0249b49f-1821-4be2-888d-f09fad52aa6e": {
+        "type": "work-page",
+        "name": "Vectra",
+        "subName": "branding",
+        "image": "vectra_work_module.png",
+        "modules": ["257cbbcb-0b2a-4a97-b860-1299ec21ddad", "0249b49f-1821-4be2-888d-f09fad52aa6e--e345fa5b-8d98-456f-9e6c-9173ca4c940e", "0249b49f-1821-4be2-888d-f09fad52aa6e--d0be5168-0ecd-44db-856f-91089c556a36", "0249b49f-1821-4be2-888d-f09fad52aa6e--ecc420d3-91f9-4b4b-a78b-bfe03d83c3a9", "0249b49f-1821-4be2-888d-f09fad52aa6e--f62fb27f-ef9a-4d37-abcf-46866b99a6eb", "0249b49f-1821-4be2-888d-f09fad52aa6e--fd28cfbf-a384-4c4c-bbd2-50c3fb411516", "0249b49f-1821-4be2-888d-f09fad52aa6e--6a919b64-4287-411b-a568-fcb2e6559250", "0249b49f-1821-4be2-888d-f09fad52aa6e--5b30725d-9511-40cf-8894-2e46170ff6e4", "0249b49f-1821-4be2-888d-f09fad52aa6e--9cd4ab26-7281-4f87-a0c2-eb990dc02d6f", "0249b49f-1821-4be2-888d-f09fad52aa6e--184458fb-6f2b-4e00-8f94-ba938de31c3a", "0249b49f-1821-4be2-888d-f09fad52aa6e--f86357d7-c8b3-49c8-8889-7a8cc3795afe"],
+        "id": "0249b49f-1821-4be2-888d-f09fad52aa6e"
+    },
+    "84266cb1-7478-4d1d-b81b-853a777a73a5": {
+        "type": "image-hero-module",
+        "link": {},
+        "id": "84266cb1-7478-4d1d-b81b-853a777a73a5"
+    },
+    "5db3aed7-1979-4a91-a853-fb9f1f3941b5": {
+        "type": "work-page",
+        "image": "2014-01-18 14.36.26 HDR.jpg",
+        "modules": ["84266cb1-7478-4d1d-b81b-853a777a73a5"],
+        "id": "5db3aed7-1979-4a91-a853-fb9f1f3941b5"
+    },
+    "915dcc7a-1e6f-4f20-bfcf-643449b7b4eb": {
+        "type": "image-hero-module",
+        "image": "cc_motion_new_hero.png",
+        "height": 800,
+        "title": "*California Closets:*\nReaching the emotions.  ",
+        "link": {},
+        "id": "915dcc7a-1e6f-4f20-bfcf-643449b7b4eb"
+    },
+    "0acfad1a-2a90-4324-b392-448f1e42b34e": {
+        "type": "work-page",
+        "name": "California Closets",
+        "subName": "motion",
+        "image": "cc_motion_small.png",
+        "modules": ["915dcc7a-1e6f-4f20-bfcf-643449b7b4eb", "0acfad1a-2a90-4324-b392-448f1e42b34e--72cba1d6-abfd-4ab3-9f0d-af4d4d5099e8", "0acfad1a-2a90-4324-b392-448f1e42b34e--030c94b9-44bf-47ca-91fa-acfc62b6873f", "0acfad1a-2a90-4324-b392-448f1e42b34e--d508385d-9a7a-4640-8ee7-a3ca797d3033", "0acfad1a-2a90-4324-b392-448f1e42b34e--4a9edf32-d63f-42d4-b4e9-4e6eee89b030", "0acfad1a-2a90-4324-b392-448f1e42b34e--34913d18-693a-4568-bb60-54734d6e0485", "0acfad1a-2a90-4324-b392-448f1e42b34e--b959fee9-db0d-4b07-9a6e-5616ea25851d", "0acfad1a-2a90-4324-b392-448f1e42b34e--f4bf2993-389b-407d-8d9a-8e524036586f", "0acfad1a-2a90-4324-b392-448f1e42b34e--2ef37182-2288-44b8-885c-dd9efc22968d"],
+        "id": "0acfad1a-2a90-4324-b392-448f1e42b34e"
+    },
+    "4b03d439-eafc-4a20-b582-53e729c653c2": {
+        "type": "image-hero-module",
+        "image": "illumio_hero.png",
+        "height": 800,
+        "title": "*Illumio:*\nUnprecedented visibility",
+        "link": {},
+        "id": "4b03d439-eafc-4a20-b582-53e729c653c2"
+    },
+    "839eec53-091b-4869-a9d6-b7df135a36ff": {
+        "type": "work-page",
+        "name": "Illumio",
+        "subName": "branding",
+        "image": "illumio_work_module.png",
+        "modules": ["4b03d439-eafc-4a20-b582-53e729c653c2", "839eec53-091b-4869-a9d6-b7df135a36ff--58e785da-0b5d-4e12-b31e-73af136c969c", "839eec53-091b-4869-a9d6-b7df135a36ff--ec52d34e-282c-4b9f-b5ac-f6df918ba6b0", "839eec53-091b-4869-a9d6-b7df135a36ff--d5987952-d074-4abd-89a3-d0c76b75fcd8", "839eec53-091b-4869-a9d6-b7df135a36ff--bef80a73-3e02-41b3-93bd-710ec420f99b"],
+        "id": "839eec53-091b-4869-a9d6-b7df135a36ff"
+    },
+    "43c21297-d468-4599-bfc2-45e3a2766e17": {
+        "type": "image-hero-module",
+        "link": {},
+        "id": "43c21297-d468-4599-bfc2-45e3a2766e17"
+    },
+    "9bf5e06e-a170-4f8d-88f9-a1431e45a378": {
+        "type": "work-page",
+        "modules": ["43c21297-d468-4599-bfc2-45e3a2766e17"],
+        "id": "9bf5e06e-a170-4f8d-88f9-a1431e45a378"
+    },
+    "c7cc2407-ccaa-4a02-bd0c-8f7e8e784989": {
+        "type": "work-category",
+        "name": "Motion",
+        "items": ["cisco-motion", "0acfad1a-2a90-4324-b392-448f1e42b34e", "autodesk-motion"],
+        "id": "c7cc2407-ccaa-4a02-bd0c-8f7e8e784989"
+    },
+    "a138aebc-276d-4eb4-bb75-c428bbf37781": {
+        "type": "work-category",
+        "name": "Campaigns",
+        "items": ["autodesk-in-trial-marketing-campaign", "finding-rover-social-media", "24-hours-fitness-display-advertising"],
+        "id": "a138aebc-276d-4eb4-bb75-c428bbf37781"
+    },
+    "7e6fff0c-3914-4496-93df-da3692b194ef": {
+        "type": "work-category",
+        "name": "Branding",
+        "items": ["0249b49f-1821-4be2-888d-f09fad52aa6e", "839eec53-091b-4869-a9d6-b7df135a36ff", "9420be79-069b-456d-ab1a-4bbb850c0efe"],
+        "id": "7e6fff0c-3914-4496-93df-da3692b194ef"
+    },
+    "990ea93a-b7a1-4b73-aac2-4a857efb4f99": {
+        "type": "image-hero-module",
+        "link": {},
+        "id": "990ea93a-b7a1-4b73-aac2-4a857efb4f99"
+    },
+    "d8ff0be2-5348-46fe-9496-acbd574a7031": {
+        "type": "work-page",
+        "modules": ["990ea93a-b7a1-4b73-aac2-4a857efb4f99"],
+        "id": "d8ff0be2-5348-46fe-9496-acbd574a7031"
+    },
+    "752db872-bd7f-4dd9-b45b-32be12ac5a44": {
+        "type": "work-category",
+        "name": "?",
+        "items": ["autodesk-nurture-marketing-campaign", "radiators-website", "atp-mobile-application", "aptara-website", "be624c58-ef7a-4545-baee-0305d7ad6138"],
+        "id": "752db872-bd7f-4dd9-b45b-32be12ac5a44"
+    },
+    "e4560bce-5d30-420f-b11c-592a64d11e30": {
+        "type": "work-category",
+        "name": "?",
+        "items": ["5db3aed7-1979-4a91-a853-fb9f1f3941b5", "03b690e2-0246-4d0e-8175-fcd46e1d5ec3", "9bf5e06e-a170-4f8d-88f9-a1431e45a378", "d8ff0be2-5348-46fe-9496-acbd574a7031"],
+        "id": "e4560bce-5d30-420f-b11c-592a64d11e30"
+    },
+    "3c15720f-54db-4c29-a80e-db6845e8de13": {
+        "type": "image-hero-module",
+        "link": {},
+        "id": "3c15720f-54db-4c29-a80e-db6845e8de13"
+    },
+    "03b690e2-0246-4d0e-8175-fcd46e1d5ec3": {
+        "type": "work-page",
+        "modules": ["3c15720f-54db-4c29-a80e-db6845e8de13"],
+        "id": "03b690e2-0246-4d0e-8175-fcd46e1d5ec3"
+    },
+    "vode-website--455f646f-66d2-4c5a-8688-939f44f8d1d1--440cbb2c-2718-4f84-ac7e-97a23914a5e8": {
+        "type": "line",
+        "title": "Discovery",
+        "text": "Given the importance of \"field research,\" we tried to talk Vode into free lighting for our office. Let's just say we spent a lot of time looking through catalogues to understand the system. Everything was still on paper.",
+        "size": "small",
+        "id": "vode-website--455f646f-66d2-4c5a-8688-939f44f8d1d1--440cbb2c-2718-4f84-ac7e-97a23914a5e8"
+    },
+    "vode-website--455f646f-66d2-4c5a-8688-939f44f8d1d1": {
+        "type": "text-module",
+        "lines": ["vode-website--455f646f-66d2-4c5a-8688-939f44f8d1d1--440cbb2c-2718-4f84-ac7e-97a23914a5e8", "0d313ece-5985-4761-99cd-81a2af587adb"],
+        "id": "vode-website--455f646f-66d2-4c5a-8688-939f44f8d1d1"
+    },
+    "vode-website--69fc49db-922b-4b9e-8f96-ca16b190d183--dcbf2176-3971-4f49-a323-746fb73d8931": {
+        "type": "line",
+        "title": "Challenge",
+        "text": "With such variety, the challenge is to help lighting designers learn about the options and spec their designs. Our challenge was to bring their offline system onto a simple to use, online platform.",
+        "size": "small",
+        "id": "vode-website--69fc49db-922b-4b9e-8f96-ca16b190d183--dcbf2176-3971-4f49-a323-746fb73d8931"
+    },
+    "vode-website--69fc49db-922b-4b9e-8f96-ca16b190d183": {
+        "type": "text-module",
+        "lines": ["vode-website--69fc49db-922b-4b9e-8f96-ca16b190d183--dcbf2176-3971-4f49-a323-746fb73d8931"],
+        "id": "vode-website--69fc49db-922b-4b9e-8f96-ca16b190d183"
+    },
+    "vode-website--409f428e-e2a3-484a-ab25-478a34ee6809--8da8ea8e-7c66-43a8-ad8d-07a040f2e421": {
+        "type": "line",
+        "title": "Inspiration",
+        "text": "First, we built an inspiration gallery that lets you hone in on just the type of environment you're designing for. The multiple filters let you drill down. Looking for a cieling suspended system for a library? ",
+        "size": "small",
+        "id": "vode-website--409f428e-e2a3-484a-ab25-478a34ee6809--8da8ea8e-7c66-43a8-ad8d-07a040f2e421"
+    },
+    "vode-website--409f428e-e2a3-484a-ab25-478a34ee6809": {
+        "type": "text-module",
+        "lines": ["vode-website--409f428e-e2a3-484a-ab25-478a34ee6809--8da8ea8e-7c66-43a8-ad8d-07a040f2e421"],
+        "id": "vode-website--409f428e-e2a3-484a-ab25-478a34ee6809"
+    },
+    "vode-website--4b2e1036-f4b6-4cdf-be11-6254233164b6--50d11873-8e09-4288-8ad4-06bed99d53a1": {
+        "type": "line",
+        "title": "",
+        "text": "Next, we designed a visual megamenu to help designers quickly get more information on products that peak their interest.",
+        "size": "small",
+        "id": "vode-website--4b2e1036-f4b6-4cdf-be11-6254233164b6--50d11873-8e09-4288-8ad4-06bed99d53a1"
+    },
+    "vode-website--4b2e1036-f4b6-4cdf-be11-6254233164b6": {
+        "type": "text-module",
+        "lines": ["vode-website--4b2e1036-f4b6-4cdf-be11-6254233164b6--50d11873-8e09-4288-8ad4-06bed99d53a1"],
+        "id": "vode-website--4b2e1036-f4b6-4cdf-be11-6254233164b6"
+    },
+    "vode-website--6b83680f-2119-42c9-a712-91670dd4ede8": {
+        "type": "image-body-module",
+        "image": "vode_megamenu.png",
+        "height": 500,
+        "link": {},
+        "id": "vode-website--6b83680f-2119-42c9-a712-91670dd4ede8"
+    },
+    "vode-website--c765cb51-a690-454a-bbf1-3466f4a48614--9baaef68-f86b-48a0-b097-1c6884f95e47": {
+        "type": "line",
+        "title": "Spec Builder",
+        "text": "And last, we designed a \"spec builder\" that holds designers hands through a multi-step, responsive journey. \n\n",
+        "size": "small",
+        "id": "vode-website--c765cb51-a690-454a-bbf1-3466f4a48614--9baaef68-f86b-48a0-b097-1c6884f95e47"
+    },
+    "vode-website--c765cb51-a690-454a-bbf1-3466f4a48614": {
+        "type": "text-module",
+        "lines": ["vode-website--c765cb51-a690-454a-bbf1-3466f4a48614--9baaef68-f86b-48a0-b097-1c6884f95e47", "7008d4bb-24d5-4fa4-8fcc-f523ac1e1574"],
+        "id": "vode-website--c765cb51-a690-454a-bbf1-3466f4a48614"
+    },
+    "vode-website--7e7a13bb-88d9-43e9-a163-50e388f6485a--ce5bead4-2bcd-4a6b-8e8f-aa1f224426bc": {
+        "type": "line",
+        "title": "Visual Cues",
+        "text": "As you spec out each element, you can see an updated visual of your choices.",
+        "size": "small",
+        "id": "vode-website--7e7a13bb-88d9-43e9-a163-50e388f6485a--ce5bead4-2bcd-4a6b-8e8f-aa1f224426bc"
+    },
+    "vode-website--7e7a13bb-88d9-43e9-a163-50e388f6485a": {
+        "type": "text-module",
+        "lines": [],
+        "id": "vode-website--7e7a13bb-88d9-43e9-a163-50e388f6485a"
+    },
+    "vode-website--352c2700-3464-4b76-a57e-b6468d4e8a92--007ca7d6-e2d9-4799-8c82-8626d54c6f57": {
+        "type": "line",
+        "title": "Responsive",
+        "text": "Furthermore, as you spec out each element, the system lets you know which other elements work with your selection. ",
+        "size": "small",
+        "id": "vode-website--352c2700-3464-4b76-a57e-b6468d4e8a92--007ca7d6-e2d9-4799-8c82-8626d54c6f57"
+    },
+    "vode-website--352c2700-3464-4b76-a57e-b6468d4e8a92": {
+        "type": "text-module",
+        "lines": ["vode-website--352c2700-3464-4b76-a57e-b6468d4e8a92--007ca7d6-e2d9-4799-8c82-8626d54c6f57", "9f76ed16-3b14-48a5-aaf9-03ba9ccf8f0b", "440a5779-6415-4032-bd9b-8c9b1bdd6029"],
+        "id": "vode-website--352c2700-3464-4b76-a57e-b6468d4e8a92"
+    },
+    "vode-website--3c0b4d33-e7e7-446a-9d76-b79d64c51f9b": {
+        "type": "image-body-module",
+        "image": "vode_spec_system.png",
+        "link": {},
+        "id": "vode-website--3c0b4d33-e7e7-446a-9d76-b79d64c51f9b"
+    },
+    "vode-website--39ca7d6c-a547-4084-ab32-79ef7c93eaf5--23c5df7c-63d9-4bb7-bccb-bfef07a31bd4": {
+        "type": "line",
+        "title": "Forgiving",
+        "text": "We also designed the system to be forgiving. You can change your mind at any point, without starting from the beginning.",
+        "size": "small",
+        "id": "vode-website--39ca7d6c-a547-4084-ab32-79ef7c93eaf5--23c5df7c-63d9-4bb7-bccb-bfef07a31bd4"
+    },
+    "vode-website--39ca7d6c-a547-4084-ab32-79ef7c93eaf5": {
+        "type": "text-module",
+        "lines": ["vode-website--39ca7d6c-a547-4084-ab32-79ef7c93eaf5--23c5df7c-63d9-4bb7-bccb-bfef07a31bd4"],
+        "id": "vode-website--39ca7d6c-a547-4084-ab32-79ef7c93eaf5"
+    },
+    "vode-website--5856e523-9bab-4ef6-8cc2-3a664d2c4790--c5751b56-15a9-4f1c-b589-c96d9bdcb83a": {
+        "type": "line",
+        "title": "Reminders",
+        "text": "And we also designed a way to notate each and every step. Just in case someone questions your brilliant design.",
+        "size": "small",
+        "id": "vode-website--5856e523-9bab-4ef6-8cc2-3a664d2c4790--c5751b56-15a9-4f1c-b589-c96d9bdcb83a"
+    },
+    "vode-website--5856e523-9bab-4ef6-8cc2-3a664d2c4790": {
+        "type": "text-module",
+        "lines": ["vode-website--5856e523-9bab-4ef6-8cc2-3a664d2c4790--c5751b56-15a9-4f1c-b589-c96d9bdcb83a"],
+        "id": "vode-website--5856e523-9bab-4ef6-8cc2-3a664d2c4790"
+    },
+    "vode-website--7c0cf481-51c5-4f86-b724-b359931289b3": {
+        "type": "image-body-module",
+        "image": "vode_spec2.png",
+        "height": 500,
+        "link": {},
+        "id": "vode-website--7c0cf481-51c5-4f86-b724-b359931289b3"
+    },
+    "vode-website--e351f16a-2e4c-4a92-97fe-29fae2895afe--c0f0026f-892b-4b23-9251-aac2a0cebcc5": {
+        "type": "line",
+        "title": "Wow factor",
+        "text": "We knew the functionality had be perfect. But to really succeed, the system had to look and feel great. Slick design and smooth animations. ",
+        "size": "small",
+        "id": "vode-website--e351f16a-2e4c-4a92-97fe-29fae2895afe--c0f0026f-892b-4b23-9251-aac2a0cebcc5"
+    },
+    "vode-website--e351f16a-2e4c-4a92-97fe-29fae2895afe": {
+        "type": "text-module",
+        "lines": ["vode-website--e351f16a-2e4c-4a92-97fe-29fae2895afe--c0f0026f-892b-4b23-9251-aac2a0cebcc5", "3a04f9d0-53a3-4b2c-98c7-b9f243e6eb35"],
+        "id": "vode-website--e351f16a-2e4c-4a92-97fe-29fae2895afe"
+    },
+    "vode-website--2cd02b22-d450-4618-90ed-7bcccf9abc52--b5777ed1-9500-4065-b14e-e39f843dc5ae": {
+        "type": "line",
+        "title": "",
+        "text": "",
+        "size": "large",
+        "id": "vode-website--2cd02b22-d450-4618-90ed-7bcccf9abc52--b5777ed1-9500-4065-b14e-e39f843dc5ae"
+    },
+    "vode-website--2cd02b22-d450-4618-90ed-7bcccf9abc52": {
+        "type": "text-module",
+        "lines": ["vode-website--2cd02b22-d450-4618-90ed-7bcccf9abc52--b5777ed1-9500-4065-b14e-e39f843dc5ae"],
+        "id": "vode-website--2cd02b22-d450-4618-90ed-7bcccf9abc52"
+    },
+    "vode-website--a00b284d-b5c5-413a-a59c-d2f91a232442": {
+        "type": "image-body-module",
+        "image": "vode_web_laptop.png",
+        "height": 500,
+        "link": {},
+        "id": "vode-website--a00b284d-b5c5-413a-a59c-d2f91a232442"
+    },
+    "04296d2e-d3c9-48ff-a68d-566743734b34": {
+        "type": "image-hero-module",
+        "image": "youcaring_hero4.png",
+        "height": 800,
+        "title": "*YouCaring:*\nKindness is powerful ",
+        "link": {},
+        "id": "04296d2e-d3c9-48ff-a68d-566743734b34"
+    },
+    "9420be79-069b-456d-ab1a-4bbb850c0efe": {
+        "type": "work-page",
+        "name": "YouCaring",
+        "subName": "branding",
+        "image": "youcaring_workpage.png",
+        "modules": ["04296d2e-d3c9-48ff-a68d-566743734b34", "9420be79-069b-456d-ab1a-4bbb850c0efe--bb6569e6-f83b-44fb-8615-ac8c89d4fb6e", "9420be79-069b-456d-ab1a-4bbb850c0efe--8e0a7af8-7df0-4d34-b8ac-0ea85899e370", "9420be79-069b-456d-ab1a-4bbb850c0efe--2d5aee00-3c45-4314-b468-27bd600ff1a5", "9420be79-069b-456d-ab1a-4bbb850c0efe--059b3086-245d-4e81-8726-28e48c0e7fac", "9420be79-069b-456d-ab1a-4bbb850c0efe--a02f1010-f986-4b38-9f01-df1e2bb5fed3", "9420be79-069b-456d-ab1a-4bbb850c0efe--dda19b8d-eb00-4899-b95e-172e88b2fa06", "9420be79-069b-456d-ab1a-4bbb850c0efe--339a9607-81f0-46b8-b3f4-f742da3791f0", "9420be79-069b-456d-ab1a-4bbb850c0efe--2e69b044-ba14-44cd-99a9-b861e086d2c5"],
+        "id": "9420be79-069b-456d-ab1a-4bbb850c0efe"
+    },
+    "9420be79-069b-456d-ab1a-4bbb850c0efe--d183da5c-b793-4d11-9be7-5b0b9d404490--fde61266-561f-446b-a09a-e76fa7456840": {
+        "type": "line",
+        "title": "Background",
+        "text": "YouCaring is the leading compassionate crowdfunding site, having raised over 200 million dollars for personal and charitable causes around the world. And they're free.",
+        "size": "small",
+        "id": "9420be79-069b-456d-ab1a-4bbb850c0efe--d183da5c-b793-4d11-9be7-5b0b9d404490--fde61266-561f-446b-a09a-e76fa7456840"
+    },
+    "9420be79-069b-456d-ab1a-4bbb850c0efe--d183da5c-b793-4d11-9be7-5b0b9d404490": {
+        "type": "text-module",
+        "lines": ["9420be79-069b-456d-ab1a-4bbb850c0efe--d183da5c-b793-4d11-9be7-5b0b9d404490--fde61266-561f-446b-a09a-e76fa7456840"],
+        "id": "9420be79-069b-456d-ab1a-4bbb850c0efe--d183da5c-b793-4d11-9be7-5b0b9d404490"
+    },
+    "9420be79-069b-456d-ab1a-4bbb850c0efe--d25353bc-c7bd-4f7e-8a14-76fe531cd028--710459d2-3411-4c0b-8932-247ee3cbdc13": {
+        "type": "line",
+        "title": "Challenge",
+        "text": "YouCaring had grown explosively with little attention to their brand. They needed help defining their audience and their messaging to extend their reach and help even more people in need.",
+        "size": "small",
+        "id": "9420be79-069b-456d-ab1a-4bbb850c0efe--d25353bc-c7bd-4f7e-8a14-76fe531cd028--710459d2-3411-4c0b-8932-247ee3cbdc13"
+    },
+    "9420be79-069b-456d-ab1a-4bbb850c0efe--d25353bc-c7bd-4f7e-8a14-76fe531cd028": {
+        "type": "text-module",
+        "lines": ["9420be79-069b-456d-ab1a-4bbb850c0efe--d25353bc-c7bd-4f7e-8a14-76fe531cd028--710459d2-3411-4c0b-8932-247ee3cbdc13"],
+        "id": "9420be79-069b-456d-ab1a-4bbb850c0efe--d25353bc-c7bd-4f7e-8a14-76fe531cd028"
+    },
+    "9420be79-069b-456d-ab1a-4bbb850c0efe--bb6569e6-f83b-44fb-8615-ac8c89d4fb6e--c473cb8c-fed7-47b5-96e2-0f86d317cd34": {
+        "type": "line",
+        "title": "Background",
+        "text": "YouCaring is the leading compassionate crowdfunding site, having raised over 200 million dollars for personal and charitable causes around the world. And they're free.",
+        "size": "small",
+        "id": "9420be79-069b-456d-ab1a-4bbb850c0efe--bb6569e6-f83b-44fb-8615-ac8c89d4fb6e--c473cb8c-fed7-47b5-96e2-0f86d317cd34"
+    },
+    "9420be79-069b-456d-ab1a-4bbb850c0efe--bb6569e6-f83b-44fb-8615-ac8c89d4fb6e": {
+        "type": "text-module",
+        "lines": ["9420be79-069b-456d-ab1a-4bbb850c0efe--bb6569e6-f83b-44fb-8615-ac8c89d4fb6e--c473cb8c-fed7-47b5-96e2-0f86d317cd34", "79700875-ca26-4ac5-992e-0d852885e19a", "7cf4ff5e-9c06-49e0-8ec7-2aeec1412e19", "5566f26b-4309-432d-9be2-9d209f010a6d", "c5ed84d2-04bf-4401-abb5-7253285b0cee"],
+        "id": "9420be79-069b-456d-ab1a-4bbb850c0efe--bb6569e6-f83b-44fb-8615-ac8c89d4fb6e"
+    },
+    "9420be79-069b-456d-ab1a-4bbb850c0efe--76fd3de6-91cf-4f92-8459-e60d51c0e0f1": {
+        "type": "image-body-module",
+        "image": "youcaring_audience.png",
+        "height": 500,
+        "link": {},
+        "id": "9420be79-069b-456d-ab1a-4bbb850c0efe--76fd3de6-91cf-4f92-8459-e60d51c0e0f1"
+    },
+    "9420be79-069b-456d-ab1a-4bbb850c0efe--53904fca-77c9-4819-9eb9-e6615c41430f--c5f6e8aa-85f8-424b-a2fa-af6224c2c464": {
+        "type": "line",
+        "title": "Discovery",
+        "text": "We started off leading a brand workshop, digging into a broad range of metrics and indicators.",
+        "size": "small",
+        "id": "9420be79-069b-456d-ab1a-4bbb850c0efe--53904fca-77c9-4819-9eb9-e6615c41430f--c5f6e8aa-85f8-424b-a2fa-af6224c2c464"
+    },
+    "9420be79-069b-456d-ab1a-4bbb850c0efe--53904fca-77c9-4819-9eb9-e6615c41430f": {
+        "type": "text-module",
+        "lines": ["9420be79-069b-456d-ab1a-4bbb850c0efe--53904fca-77c9-4819-9eb9-e6615c41430f--c5f6e8aa-85f8-424b-a2fa-af6224c2c464"],
+        "id": "9420be79-069b-456d-ab1a-4bbb850c0efe--53904fca-77c9-4819-9eb9-e6615c41430f"
+    },
+    "9420be79-069b-456d-ab1a-4bbb850c0efe--236dd583-8b57-409b-b94e-200a93e9b629--ddd90893-0ec7-4bd3-89e8-71ecbc7bb7d5": {
+        "type": "line",
+        "title": "Survey",
+        "text": "Then, leveraging the personality and aspiration survey we developed in house, we surveyed the target audience to understand who they are. \n\nWe also uncovered their specific motivations for donating to others.",
+        "size": "small",
+        "id": "9420be79-069b-456d-ab1a-4bbb850c0efe--236dd583-8b57-409b-b94e-200a93e9b629--ddd90893-0ec7-4bd3-89e8-71ecbc7bb7d5"
+    },
+    "9420be79-069b-456d-ab1a-4bbb850c0efe--236dd583-8b57-409b-b94e-200a93e9b629": {
+        "type": "text-module",
+        "lines": ["9420be79-069b-456d-ab1a-4bbb850c0efe--236dd583-8b57-409b-b94e-200a93e9b629--ddd90893-0ec7-4bd3-89e8-71ecbc7bb7d5"],
+        "id": "9420be79-069b-456d-ab1a-4bbb850c0efe--236dd583-8b57-409b-b94e-200a93e9b629"
+    },
+    "9420be79-069b-456d-ab1a-4bbb850c0efe--8e0a7af8-7df0-4d34-b8ac-0ea85899e370": {
+        "type": "image-body-module",
+        "image": "youcaring_quotes2.png",
+        "height": 500,
+        "link": {},
+        "id": "9420be79-069b-456d-ab1a-4bbb850c0efe--8e0a7af8-7df0-4d34-b8ac-0ea85899e370"
+    },
+    "9420be79-069b-456d-ab1a-4bbb850c0efe--2d5aee00-3c45-4314-b468-27bd600ff1a5--10eb0605-88d1-4746-b795-88782a9a9f74": {
+        "type": "line",
+        "title": "Audience",
+        "text": "Then we created Personas based on both qualitiative and quantiative measures to help us understand who we wanted to reach. ",
+        "size": "small",
+        "id": "9420be79-069b-456d-ab1a-4bbb850c0efe--2d5aee00-3c45-4314-b468-27bd600ff1a5--10eb0605-88d1-4746-b795-88782a9a9f74"
+    },
+    "9420be79-069b-456d-ab1a-4bbb850c0efe--2d5aee00-3c45-4314-b468-27bd600ff1a5": {
+        "type": "text-module",
+        "lines": ["9420be79-069b-456d-ab1a-4bbb850c0efe--2d5aee00-3c45-4314-b468-27bd600ff1a5--10eb0605-88d1-4746-b795-88782a9a9f74"],
+        "id": "9420be79-069b-456d-ab1a-4bbb850c0efe--2d5aee00-3c45-4314-b468-27bd600ff1a5"
+    },
+    "bfb0f3a2-0ac4-485f-97ef-79da523856d0": {
+        "type": "image-hero-module",
+        "link": {},
+        "id": "bfb0f3a2-0ac4-485f-97ef-79da523856d0"
+    },
+    "be624c58-ef7a-4545-baee-0305d7ad6138": {
+        "type": "work-page",
+        "modules": ["bfb0f3a2-0ac4-485f-97ef-79da523856d0"],
+        "id": "be624c58-ef7a-4545-baee-0305d7ad6138"
+    },
+    "california-closets-website--dc698609-e19f-4c1c-963c-e554787c0689": {
+        "type": "image-hero-module",
+        "image": "cc_hero.png",
+        "height": 800,
+        "title": "*California Closets:*\nA journey up market",
+        "link": {},
+        "id": "california-closets-website--dc698609-e19f-4c1c-963c-e554787c0689"
+    },
+    "9420be79-069b-456d-ab1a-4bbb850c0efe--059b3086-245d-4e81-8726-28e48c0e7fac": {
+        "type": "image-body-module",
+        "image": "youing_personas.png",
+        "height": 500,
+        "link": {},
+        "id": "9420be79-069b-456d-ab1a-4bbb850c0efe--059b3086-245d-4e81-8726-28e48c0e7fac"
+    },
+    "9420be79-069b-456d-ab1a-4bbb850c0efe--a02f1010-f986-4b38-9f01-df1e2bb5fed3--4dd821c2-1abb-4bfe-be04-2984666b6e6d": {
+        "type": "line",
+        "title": "Voice",
+        "text": "Next, we defined the voice of YouCaring. The voice guidelines both help YouCaring define their positioning and help their writers speak in a unified voice.  ",
+        "size": "small",
+        "id": "9420be79-069b-456d-ab1a-4bbb850c0efe--a02f1010-f986-4b38-9f01-df1e2bb5fed3--4dd821c2-1abb-4bfe-be04-2984666b6e6d"
+    },
+    "9420be79-069b-456d-ab1a-4bbb850c0efe--a02f1010-f986-4b38-9f01-df1e2bb5fed3": {
+        "type": "text-module",
+        "lines": ["9420be79-069b-456d-ab1a-4bbb850c0efe--a02f1010-f986-4b38-9f01-df1e2bb5fed3--4dd821c2-1abb-4bfe-be04-2984666b6e6d"],
+        "id": "9420be79-069b-456d-ab1a-4bbb850c0efe--a02f1010-f986-4b38-9f01-df1e2bb5fed3"
+    },
+    "9420be79-069b-456d-ab1a-4bbb850c0efe--dda19b8d-eb00-4899-b95e-172e88b2fa06": {
+        "type": "image-body-module",
+        "image": "youcaring_voice_book.png",
+        "height": 500,
+        "link": {},
+        "id": "9420be79-069b-456d-ab1a-4bbb850c0efe--dda19b8d-eb00-4899-b95e-172e88b2fa06"
+    },
+    "9420be79-069b-456d-ab1a-4bbb850c0efe--339a9607-81f0-46b8-b3f4-f742da3791f0--831a7e2a-b643-405f-b614-db1c2b076e83": {
+        "type": "line",
+        "title": "Tagline",
+        "text": "We're not going to lie: reducing the complexity and richness of this company into three words was a challenge. ",
+        "size": "small",
+        "id": "9420be79-069b-456d-ab1a-4bbb850c0efe--339a9607-81f0-46b8-b3f4-f742da3791f0--831a7e2a-b643-405f-b614-db1c2b076e83"
+    },
+    "9420be79-069b-456d-ab1a-4bbb850c0efe--339a9607-81f0-46b8-b3f4-f742da3791f0": {
+        "type": "text-module",
+        "lines": ["9420be79-069b-456d-ab1a-4bbb850c0efe--339a9607-81f0-46b8-b3f4-f742da3791f0--831a7e2a-b643-405f-b614-db1c2b076e83", "46032569-90b3-4031-b40c-5323566072a4", "3e183e19-81c4-439d-a0d6-6d2acdde1f93"],
+        "id": "9420be79-069b-456d-ab1a-4bbb850c0efe--339a9607-81f0-46b8-b3f4-f742da3791f0"
+    },
+    "9420be79-069b-456d-ab1a-4bbb850c0efe--b012f292-8a41-4e84-aacc-768b055039fa": {
+        "type": "image-body-module",
+        "image": "pumped.png",
+        "link": {},
+        "id": "9420be79-069b-456d-ab1a-4bbb850c0efe--b012f292-8a41-4e84-aacc-768b055039fa"
+    },
+    "9420be79-069b-456d-ab1a-4bbb850c0efe--ca16c7c7-8adb-4921-9457-dba364496a40--57009abb-03fe-4503-a4e2-6b2b6f3fc950": {
+        "type": "line",
+        "title": "Results",
+        "text": "In the words of the YouCaring team, they were *pumped* with the work we did. ",
+        "size": "small",
+        "id": "9420be79-069b-456d-ab1a-4bbb850c0efe--ca16c7c7-8adb-4921-9457-dba364496a40--57009abb-03fe-4503-a4e2-6b2b6f3fc950"
+    },
+    "9420be79-069b-456d-ab1a-4bbb850c0efe--ca16c7c7-8adb-4921-9457-dba364496a40": {
+        "type": "text-module",
+        "lines": ["9420be79-069b-456d-ab1a-4bbb850c0efe--ca16c7c7-8adb-4921-9457-dba364496a40--57009abb-03fe-4503-a4e2-6b2b6f3fc950"],
+        "id": "9420be79-069b-456d-ab1a-4bbb850c0efe--ca16c7c7-8adb-4921-9457-dba364496a40"
+    },
+    "0acfad1a-2a90-4324-b392-448f1e42b34e--72cba1d6-abfd-4ab3-9f0d-af4d4d5099e8--ead03d58-b56c-4f0f-a845-12fb991f2107": {
+        "type": "line",
+        "title": "Background\n",
+        "text": "While California Closets sells storage solutions, what they're really selling is something much deeper. Peace of mind.",
+        "size": "small",
+        "id": "0acfad1a-2a90-4324-b392-448f1e42b34e--72cba1d6-abfd-4ab3-9f0d-af4d4d5099e8--ead03d58-b56c-4f0f-a845-12fb991f2107"
+    },
+    "0acfad1a-2a90-4324-b392-448f1e42b34e--72cba1d6-abfd-4ab3-9f0d-af4d4d5099e8": {
+        "type": "text-module",
+        "lines": ["0acfad1a-2a90-4324-b392-448f1e42b34e--72cba1d6-abfd-4ab3-9f0d-af4d4d5099e8--ead03d58-b56c-4f0f-a845-12fb991f2107", "7e024550-9f3e-4936-8fd5-d9fced1bdec6"],
+        "id": "0acfad1a-2a90-4324-b392-448f1e42b34e--72cba1d6-abfd-4ab3-9f0d-af4d4d5099e8"
+    },
+    "0acfad1a-2a90-4324-b392-448f1e42b34e--df68dcf5-cd6e-4855-8d20-33688242164c--9e93eda7-3eed-41d4-b3d1-d98c3f2257c3": {
+        "type": "line",
+        "title": "Challenge",
+        "text": "How to communicate the amazing emotional benefit of a great storage solution?",
+        "size": "small",
+        "id": "0acfad1a-2a90-4324-b392-448f1e42b34e--df68dcf5-cd6e-4855-8d20-33688242164c--9e93eda7-3eed-41d4-b3d1-d98c3f2257c3"
+    },
+    "0acfad1a-2a90-4324-b392-448f1e42b34e--df68dcf5-cd6e-4855-8d20-33688242164c": {
+        "type": "text-module",
+        "lines": ["0acfad1a-2a90-4324-b392-448f1e42b34e--df68dcf5-cd6e-4855-8d20-33688242164c--9e93eda7-3eed-41d4-b3d1-d98c3f2257c3"],
+        "id": "0acfad1a-2a90-4324-b392-448f1e42b34e--df68dcf5-cd6e-4855-8d20-33688242164c"
+    },
+    "0acfad1a-2a90-4324-b392-448f1e42b34e--030c94b9-44bf-47ca-91fa-acfc62b6873f": {
+        "type": "image-body-module",
+        "image": "cc_shoot.png",
+        "height": 500,
+        "link": {},
+        "id": "0acfad1a-2a90-4324-b392-448f1e42b34e--030c94b9-44bf-47ca-91fa-acfc62b6873f"
+    },
+    "0acfad1a-2a90-4324-b392-448f1e42b34e--d508385d-9a7a-4640-8ee7-a3ca797d3033--2a0f8df2-9bd3-472b-92d0-f667ed2b76d0": {
+        "type": "line",
+        "title": "The Audience",
+        "text": "We started by trying to understand the audience more deeply.",
+        "size": "small",
+        "id": "0acfad1a-2a90-4324-b392-448f1e42b34e--d508385d-9a7a-4640-8ee7-a3ca797d3033--2a0f8df2-9bd3-472b-92d0-f667ed2b76d0"
+    },
+    "0acfad1a-2a90-4324-b392-448f1e42b34e--d508385d-9a7a-4640-8ee7-a3ca797d3033": {
+        "type": "text-module",
+        "lines": ["0acfad1a-2a90-4324-b392-448f1e42b34e--d508385d-9a7a-4640-8ee7-a3ca797d3033--2a0f8df2-9bd3-472b-92d0-f667ed2b76d0", "709a793f-6c66-426b-989d-513dad1382a5", "81c01ca0-9d58-4e50-8280-2a678937a584"],
+        "id": "0acfad1a-2a90-4324-b392-448f1e42b34e--d508385d-9a7a-4640-8ee7-a3ca797d3033"
+    },
+    "0acfad1a-2a90-4324-b392-448f1e42b34e--4a9edf32-d63f-42d4-b4e9-4e6eee89b030": {
+        "type": "image-body-module",
+        "image": "ccmotion_personas.png",
+        "height": 500,
+        "link": {},
+        "id": "0acfad1a-2a90-4324-b392-448f1e42b34e--4a9edf32-d63f-42d4-b4e9-4e6eee89b030"
+    },
+    "0acfad1a-2a90-4324-b392-448f1e42b34e--34913d18-693a-4568-bb60-54734d6e0485--2ddbc432-08e2-4036-9d89-545a4b039417": {
+        "type": "line",
+        "title": "Storyboards",
+        "text": "We then created scenarios for each of the 5 Personas that caputred them relaxing in their homes. ",
+        "size": "small",
+        "id": "0acfad1a-2a90-4324-b392-448f1e42b34e--34913d18-693a-4568-bb60-54734d6e0485--2ddbc432-08e2-4036-9d89-545a4b039417"
+    },
+    "0acfad1a-2a90-4324-b392-448f1e42b34e--34913d18-693a-4568-bb60-54734d6e0485": {
+        "type": "text-module",
+        "lines": ["0acfad1a-2a90-4324-b392-448f1e42b34e--34913d18-693a-4568-bb60-54734d6e0485--2ddbc432-08e2-4036-9d89-545a4b039417", "a0133025-d3d4-4f9e-a86b-df18d9c4587d"],
+        "id": "0acfad1a-2a90-4324-b392-448f1e42b34e--34913d18-693a-4568-bb60-54734d6e0485"
+    },
+    "0acfad1a-2a90-4324-b392-448f1e42b34e--b959fee9-db0d-4b07-9a6e-5616ea25851d": {
+        "type": "image-body-module",
+        "image": "sketches.png",
+        "height": 500,
+        "link": {},
+        "id": "0acfad1a-2a90-4324-b392-448f1e42b34e--b959fee9-db0d-4b07-9a6e-5616ea25851d"
+    },
+    "0acfad1a-2a90-4324-b392-448f1e42b34e--f4bf2993-389b-407d-8d9a-8e524036586f--0b2ab14f-8f7d-48c3-9b2f-6152c12d88d8": {
+        "type": "line",
+        "title": "Video",
+        "text": "Every angle, every light, every movement, was about creating the right mood. Light, easy, peaceful, relaxing.",
+        "size": "small",
+        "id": "0acfad1a-2a90-4324-b392-448f1e42b34e--f4bf2993-389b-407d-8d9a-8e524036586f--0b2ab14f-8f7d-48c3-9b2f-6152c12d88d8"
+    },
+    "0acfad1a-2a90-4324-b392-448f1e42b34e--f4bf2993-389b-407d-8d9a-8e524036586f": {
+        "type": "text-module",
+        "lines": ["0acfad1a-2a90-4324-b392-448f1e42b34e--f4bf2993-389b-407d-8d9a-8e524036586f--0b2ab14f-8f7d-48c3-9b2f-6152c12d88d8", "4006de7c-cde4-46d6-a18f-97efcdfd99d5"],
+        "id": "0acfad1a-2a90-4324-b392-448f1e42b34e--f4bf2993-389b-407d-8d9a-8e524036586f"
+    },
+    "0acfad1a-2a90-4324-b392-448f1e42b34e--2ef37182-2288-44b8-885c-dd9efc22968d": {
+        "type": "image-body-module",
+        "image": "cc_shoot_2.png",
+        "height": 500,
+        "link": {},
+        "id": "0acfad1a-2a90-4324-b392-448f1e42b34e--2ef37182-2288-44b8-885c-dd9efc22968d"
+    },
+    "0249b49f-1821-4be2-888d-f09fad52aa6e--e345fa5b-8d98-456f-9e6c-9173ca4c940e--879d3ac6-540e-45ff-a22d-d81e4a0914a4": {
+        "type": "line",
+        "title": "Background",
+        "text": "With a brilliant team of engineers with a revolutionary approach to security, Vectra needed everything from a name to a brand identity.",
+        "size": "small",
+        "id": "0249b49f-1821-4be2-888d-f09fad52aa6e--e345fa5b-8d98-456f-9e6c-9173ca4c940e--879d3ac6-540e-45ff-a22d-d81e4a0914a4"
+    },
+    "0249b49f-1821-4be2-888d-f09fad52aa6e--e345fa5b-8d98-456f-9e6c-9173ca4c940e": {
+        "type": "text-module",
+        "lines": ["0249b49f-1821-4be2-888d-f09fad52aa6e--e345fa5b-8d98-456f-9e6c-9173ca4c940e--879d3ac6-540e-45ff-a22d-d81e4a0914a4", "2d199312-5e79-4717-a541-1c09fbb99c17"],
+        "id": "0249b49f-1821-4be2-888d-f09fad52aa6e--e345fa5b-8d98-456f-9e6c-9173ca4c940e"
+    },
+    "0249b49f-1821-4be2-888d-f09fad52aa6e--9872ea2f-0959-4193-9c55-3eadc4b43b66--1f582808-28a3-4f73-9a35-339973aae50e": {
+        "type": "line",
+        "title": "Challenge",
+        "text": "We sought out to find an identity that captured the character and energy of this company in the overcrowded streets of the Internet\n",
+        "size": "small",
+        "id": "0249b49f-1821-4be2-888d-f09fad52aa6e--9872ea2f-0959-4193-9c55-3eadc4b43b66--1f582808-28a3-4f73-9a35-339973aae50e"
+    },
+    "0249b49f-1821-4be2-888d-f09fad52aa6e--9872ea2f-0959-4193-9c55-3eadc4b43b66": {
+        "type": "text-module",
+        "lines": ["0249b49f-1821-4be2-888d-f09fad52aa6e--9872ea2f-0959-4193-9c55-3eadc4b43b66--1f582808-28a3-4f73-9a35-339973aae50e"],
+        "id": "0249b49f-1821-4be2-888d-f09fad52aa6e--9872ea2f-0959-4193-9c55-3eadc4b43b66"
+    },
+    "0249b49f-1821-4be2-888d-f09fad52aa6e--d0be5168-0ecd-44db-856f-91089c556a36": {
+        "type": "image-body-module",
+        "image": "vectra_scribbles.png",
+        "height": 500,
+        "link": {},
+        "id": "0249b49f-1821-4be2-888d-f09fad52aa6e--d0be5168-0ecd-44db-856f-91089c556a36"
+    },
+    "0249b49f-1821-4be2-888d-f09fad52aa6e--ecc420d3-91f9-4b4b-a78b-bfe03d83c3a9--d7e074ad-5cfd-4586-8024-e6889e66fd13": {
+        "type": "line",
+        "title": "Discovery",
+        "text": "We believe every brand can be aspirational, even a security company. For Vectra, not only is their technology revolutionary, but so is their user experience. It's plug and play simple. Our goal was to create branding that evoked that great feeling of \"1 - 2 - 3- Done!\" ",
+        "size": "small",
+        "id": "0249b49f-1821-4be2-888d-f09fad52aa6e--ecc420d3-91f9-4b4b-a78b-bfe03d83c3a9--d7e074ad-5cfd-4586-8024-e6889e66fd13"
+    },
+    "0249b49f-1821-4be2-888d-f09fad52aa6e--ecc420d3-91f9-4b4b-a78b-bfe03d83c3a9": {
+        "type": "text-module",
+        "lines": ["0249b49f-1821-4be2-888d-f09fad52aa6e--ecc420d3-91f9-4b4b-a78b-bfe03d83c3a9--d7e074ad-5cfd-4586-8024-e6889e66fd13"],
+        "id": "0249b49f-1821-4be2-888d-f09fad52aa6e--ecc420d3-91f9-4b4b-a78b-bfe03d83c3a9"
+    },
+    "0249b49f-1821-4be2-888d-f09fad52aa6e--fd28cfbf-a384-4c4c-bbd2-50c3fb411516--9615ee51-7e47-4c15-9edc-c3dd031483f5": {
+        "type": "line",
+        "title": "Science and Art",
+        "text": "We approach the naming process both as a science and an art. We scoured the landscape for a long list of relevant words, roots, pre-fixes and endings. Then we created hundreds of combinations. We're not even exagerrating. ",
+        "size": "small",
+        "id": "0249b49f-1821-4be2-888d-f09fad52aa6e--fd28cfbf-a384-4c4c-bbd2-50c3fb411516--9615ee51-7e47-4c15-9edc-c3dd031483f5"
+    },
+    "0249b49f-1821-4be2-888d-f09fad52aa6e--fd28cfbf-a384-4c4c-bbd2-50c3fb411516": {
+        "type": "text-module",
+        "lines": ["0249b49f-1821-4be2-888d-f09fad52aa6e--fd28cfbf-a384-4c4c-bbd2-50c3fb411516--9615ee51-7e47-4c15-9edc-c3dd031483f5", "711bce08-eec2-47be-b610-710ff07c7903"],
+        "id": "0249b49f-1821-4be2-888d-f09fad52aa6e--fd28cfbf-a384-4c4c-bbd2-50c3fb411516"
+    },
+    "0249b49f-1821-4be2-888d-f09fad52aa6e--9a05880d-a86a-4e88-b4c6-1b706485ae48--2655b885-a0d6-4b11-af3c-99145cb0c616": {
+        "type": "line",
+        "title": "",
+        "text": "One name practically jumped out of the list: Vectra.",
+        "size": "small",
+        "id": "0249b49f-1821-4be2-888d-f09fad52aa6e--9a05880d-a86a-4e88-b4c6-1b706485ae48--2655b885-a0d6-4b11-af3c-99145cb0c616"
+    },
+    "0249b49f-1821-4be2-888d-f09fad52aa6e--9a05880d-a86a-4e88-b4c6-1b706485ae48": {
+        "type": "text-module",
+        "lines": ["0249b49f-1821-4be2-888d-f09fad52aa6e--9a05880d-a86a-4e88-b4c6-1b706485ae48--2655b885-a0d6-4b11-af3c-99145cb0c616"],
+        "id": "0249b49f-1821-4be2-888d-f09fad52aa6e--9a05880d-a86a-4e88-b4c6-1b706485ae48"
+    },
+    "0249b49f-1821-4be2-888d-f09fad52aa6e--6a919b64-4287-411b-a568-fcb2e6559250": {
+        "type": "image-body-module",
+        "image": "vectra_logo3.png",
+        "height": 500,
+        "link": {},
+        "id": "0249b49f-1821-4be2-888d-f09fad52aa6e--6a919b64-4287-411b-a568-fcb2e6559250"
+    },
+    "0249b49f-1821-4be2-888d-f09fad52aa6e--5b30725d-9511-40cf-8894-2e46170ff6e4--a47101a6-500b-40de-9099-3e7443fc0203": {
+        "type": "line",
+        "title": "Turn on the visual",
+        "text": "Next up, visual identity. It had to convey technical savvy and plug and play simplicity.\n\nThe logo does just that. With a simple flip of the first letter V, like a switch, we get the last letter to close off the name.\n\nAnd the iconographic representation combines the V and A into a line graph, symbolizing the always-on security monitoring of the company. Simple, meaningful, and elegant.",
+        "size": "small",
+        "id": "0249b49f-1821-4be2-888d-f09fad52aa6e--5b30725d-9511-40cf-8894-2e46170ff6e4--a47101a6-500b-40de-9099-3e7443fc0203"
+    },
+    "0249b49f-1821-4be2-888d-f09fad52aa6e--5b30725d-9511-40cf-8894-2e46170ff6e4": {
+        "type": "text-module",
+        "lines": ["0249b49f-1821-4be2-888d-f09fad52aa6e--5b30725d-9511-40cf-8894-2e46170ff6e4--a47101a6-500b-40de-9099-3e7443fc0203"],
+        "id": "0249b49f-1821-4be2-888d-f09fad52aa6e--5b30725d-9511-40cf-8894-2e46170ff6e4"
+    },
+    "0249b49f-1821-4be2-888d-f09fad52aa6e--9cd4ab26-7281-4f87-a0c2-eb990dc02d6f": {
+        "type": "image-body-module",
+        "image": "vectra_brand_applications.png",
+        "height": 500,
+        "link": {},
+        "id": "0249b49f-1821-4be2-888d-f09fad52aa6e--9cd4ab26-7281-4f87-a0c2-eb990dc02d6f"
+    },
+    "0249b49f-1821-4be2-888d-f09fad52aa6e--184458fb-6f2b-4e00-8f94-ba938de31c3a--6f94e87d-bd29-4ba9-a591-520fdb439b0f": {
+        "type": "line",
+        "title": "Security that thinks",
+        "text": "\nWe then expanded the vision into the website design. Easy, intuitive and insightful, just like the product itself. ",
+        "size": "small",
+        "id": "0249b49f-1821-4be2-888d-f09fad52aa6e--184458fb-6f2b-4e00-8f94-ba938de31c3a--6f94e87d-bd29-4ba9-a591-520fdb439b0f"
+    },
+    "0249b49f-1821-4be2-888d-f09fad52aa6e--184458fb-6f2b-4e00-8f94-ba938de31c3a": {
+        "type": "text-module",
+        "lines": ["0249b49f-1821-4be2-888d-f09fad52aa6e--184458fb-6f2b-4e00-8f94-ba938de31c3a--6f94e87d-bd29-4ba9-a591-520fdb439b0f"],
+        "id": "0249b49f-1821-4be2-888d-f09fad52aa6e--184458fb-6f2b-4e00-8f94-ba938de31c3a"
+    },
+    "0249b49f-1821-4be2-888d-f09fad52aa6e--f86357d7-c8b3-49c8-8889-7a8cc3795afe": {
+        "type": "image-body-module",
+        "image": "vectra_imac_back.png",
+        "height": 500,
+        "link": {},
+        "id": "0249b49f-1821-4be2-888d-f09fad52aa6e--f86357d7-c8b3-49c8-8889-7a8cc3795afe"
+    },
+    "839eec53-091b-4869-a9d6-b7df135a36ff--58e785da-0b5d-4e12-b31e-73af136c969c--14e670e0-e85f-4aa2-bb9e-a69a89128081": {
+        "type": "line",
+        "title": "Background",
+        "text": "A startup comes to you with an unprecedented solution for network visibility and security.",
+        "size": "small",
+        "id": "839eec53-091b-4869-a9d6-b7df135a36ff--58e785da-0b5d-4e12-b31e-73af136c969c--14e670e0-e85f-4aa2-bb9e-a69a89128081"
+    },
+    "839eec53-091b-4869-a9d6-b7df135a36ff--58e785da-0b5d-4e12-b31e-73af136c969c": {
+        "type": "text-module",
+        "lines": ["839eec53-091b-4869-a9d6-b7df135a36ff--58e785da-0b5d-4e12-b31e-73af136c969c--14e670e0-e85f-4aa2-bb9e-a69a89128081", "927658d7-6380-4aa1-a819-5fbc6e719344"],
+        "id": "839eec53-091b-4869-a9d6-b7df135a36ff--58e785da-0b5d-4e12-b31e-73af136c969c"
+    },
+    "839eec53-091b-4869-a9d6-b7df135a36ff--254d061d-6431-4a17-aa53-eee36ffa038e--b5f573b9-3d12-4fe8-902c-33e3e781edcf": {
+        "type": "line",
+        "title": "Challenge",
+        "text": "They want a name that is short, descriptive and available as a .com",
+        "size": "small",
+        "id": "839eec53-091b-4869-a9d6-b7df135a36ff--254d061d-6431-4a17-aa53-eee36ffa038e--b5f573b9-3d12-4fe8-902c-33e3e781edcf"
+    },
+    "839eec53-091b-4869-a9d6-b7df135a36ff--254d061d-6431-4a17-aa53-eee36ffa038e": {
+        "type": "text-module",
+        "lines": ["839eec53-091b-4869-a9d6-b7df135a36ff--254d061d-6431-4a17-aa53-eee36ffa038e--b5f573b9-3d12-4fe8-902c-33e3e781edcf"],
+        "id": "839eec53-091b-4869-a9d6-b7df135a36ff--254d061d-6431-4a17-aa53-eee36ffa038e"
+    },
+    "839eec53-091b-4869-a9d6-b7df135a36ff--ec52d34e-282c-4b9f-b5ac-f6df918ba6b0": {
+        "type": "image-body-module",
+        "image": "illumio_naming3.png",
+        "height": 500,
+        "link": {},
+        "id": "839eec53-091b-4869-a9d6-b7df135a36ff--ec52d34e-282c-4b9f-b5ac-f6df918ba6b0"
+    },
+    "839eec53-091b-4869-a9d6-b7df135a36ff--d5987952-d074-4abd-89a3-d0c76b75fcd8--08d359d1-0ca3-48e4-bc00-0cf5fb46548f": {
+        "type": "line",
+        "title": "Discovery",
+        "text": "We had our work cut out for us. We were set on using a word connected to visibility. Luckily, there are lots of them in the English language.",
+        "size": "small",
+        "id": "839eec53-091b-4869-a9d6-b7df135a36ff--d5987952-d074-4abd-89a3-d0c76b75fcd8--08d359d1-0ca3-48e4-bc00-0cf5fb46548f"
+    },
+    "839eec53-091b-4869-a9d6-b7df135a36ff--d5987952-d074-4abd-89a3-d0c76b75fcd8": {
+        "type": "text-module",
+        "lines": ["839eec53-091b-4869-a9d6-b7df135a36ff--d5987952-d074-4abd-89a3-d0c76b75fcd8--08d359d1-0ca3-48e4-bc00-0cf5fb46548f", "7db7967f-4cc3-4351-b0dd-fb13fd103869", "6943207a-435d-415a-9d48-e6098981f235"],
+        "id": "839eec53-091b-4869-a9d6-b7df135a36ff--d5987952-d074-4abd-89a3-d0c76b75fcd8"
+    },
+    "839eec53-091b-4869-a9d6-b7df135a36ff--06225008-5a94-4500-85dc-ed07e1c7579b--99a6162b-bb70-4f8b-a515-c417e1e0f03d": {
+        "type": "line",
+        "title": "Mission",
+        "text": "We brainstormed together to create a list of hundreds of roots, but we couldn't get the word illuminate out of our minds.\nWhen one of our writers said Illumio, it was like light bulbs went on all over Silicon Valley. \n",
+        "size": "small",
+        "id": "839eec53-091b-4869-a9d6-b7df135a36ff--06225008-5a94-4500-85dc-ed07e1c7579b--99a6162b-bb70-4f8b-a515-c417e1e0f03d"
+    },
+    "839eec53-091b-4869-a9d6-b7df135a36ff--06225008-5a94-4500-85dc-ed07e1c7579b": {
+        "type": "text-module",
+        "lines": ["839eec53-091b-4869-a9d6-b7df135a36ff--06225008-5a94-4500-85dc-ed07e1c7579b--99a6162b-bb70-4f8b-a515-c417e1e0f03d"],
+        "id": "839eec53-091b-4869-a9d6-b7df135a36ff--06225008-5a94-4500-85dc-ed07e1c7579b"
+    },
+    "839eec53-091b-4869-a9d6-b7df135a36ff--bef80a73-3e02-41b3-93bd-710ec420f99b": {
+        "type": "image-body-module",
+        "image": "illumio_last.png",
+        "height": 500,
+        "link": {},
+        "id": "839eec53-091b-4869-a9d6-b7df135a36ff--bef80a73-3e02-41b3-93bd-710ec420f99b"
+    },
+    "vode-website--32ed7cf6-77b0-47d8-996d-c350741b54d9": {
+        "type": "image-body-module",
+        "image": "vode_missing.png",
+        "link": {},
+        "id": "vode-website--32ed7cf6-77b0-47d8-996d-c350741b54d9"
+    },
+    "vode-website--837793a3-1a83-4f02-9ece-3841b801f017": {
+        "type": "image-body-module",
+        "image": "vode_gallery.png",
+        "height": 500,
+        "link": {},
+        "id": "vode-website--837793a3-1a83-4f02-9ece-3841b801f017"
+    },
+    "cisco-motion--9d918a69-84a3-4db9-8c4f-573d1b1f39f6": {
+        "type": "image-body-module",
+        "image": "cisco_motion_quote.png",
+        "height": 500,
+        "link": {},
+        "id": "cisco-motion--9d918a69-84a3-4db9-8c4f-573d1b1f39f6"
+    },
+    "autodesk-motion--98a779a5-b235-44b9-be56-951a57a1bc9b--324d6b3e-dc4d-4c03-8362-fc670ee361ad": {
+        "type": "line",
+        "title": "Challenge",
+        "text": "Autodesk software is feature rich. It's what makes it so incredible. And also what can make it difficult to sell. Simplify the message with a series of quick Top 5 slideshows. ",
+        "size": "small",
+        "id": "autodesk-motion--98a779a5-b235-44b9-be56-951a57a1bc9b--324d6b3e-dc4d-4c03-8362-fc670ee361ad"
+    },
+    "autodesk-motion--98a779a5-b235-44b9-be56-951a57a1bc9b": {
+        "type": "text-module",
+        "lines": ["autodesk-motion--98a779a5-b235-44b9-be56-951a57a1bc9b--324d6b3e-dc4d-4c03-8362-fc670ee361ad", "1eb59b17-bfd8-4524-841c-ba1c3fc7d594", "84b4c16e-2187-4493-a1e9-75b64d5b58e1"],
+        "id": "autodesk-motion--98a779a5-b235-44b9-be56-951a57a1bc9b"
+    },
+    "autodesk-motion--70d3a5c1-e3df-4b7a-8bd4-edea299ed2bc--6fc560f6-fda7-41a1-9cd1-d185590035b4": {
+        "type": "line",
+        "title": "The execution",
+        "text": "We chapterized each feature and created a simple interface that allows users to easily navigate to see what's important to them.",
+        "size": "small",
+        "id": "autodesk-motion--70d3a5c1-e3df-4b7a-8bd4-edea299ed2bc--6fc560f6-fda7-41a1-9cd1-d185590035b4"
+    },
+    "autodesk-motion--70d3a5c1-e3df-4b7a-8bd4-edea299ed2bc": {
+        "type": "text-module",
+        "lines": ["autodesk-motion--70d3a5c1-e3df-4b7a-8bd4-edea299ed2bc--6fc560f6-fda7-41a1-9cd1-d185590035b4"],
+        "id": "autodesk-motion--70d3a5c1-e3df-4b7a-8bd4-edea299ed2bc"
+    },
+    "vode-website--43415beb-4de3-4c99-8073-86160f35b5bb": {
+        "type": "image-body-module",
+        "image": "vode_spec1.png",
+        "height": 500,
+        "link": {},
+        "id": "vode-website--43415beb-4de3-4c99-8073-86160f35b5bb"
+    },
+    "vode-website--a7cc9e15-cc35-4f4b-9d1f-13d589cd6111": {
+        "type": "image-hero-module",
+        "image": "vode_hero.png",
+        "height": 800,
+        "title": "*Vode:*\nSimply Illuminated",
+        "link": {},
+        "id": "vode-website--a7cc9e15-cc35-4f4b-9d1f-13d589cd6111"
+    },
+    "cisco-mobile-application--56731275-b373-49e0-8c4b-027f2fe63c8a--93792fa2-d7ae-4860-a5c9-2a9c190e92f3": {
+        "type": "line",
+        "title": "Challenge",
+        "text": "Cisco came to us with a great challenge: Create a tablet app to help Partners sell complex solutions more efficiently.",
+        "size": "small",
+        "id": "cisco-mobile-application--56731275-b373-49e0-8c4b-027f2fe63c8a--93792fa2-d7ae-4860-a5c9-2a9c190e92f3"
+    },
+    "cisco-mobile-application--56731275-b373-49e0-8c4b-027f2fe63c8a": {
+        "type": "text-module",
+        "lines": ["cisco-mobile-application--56731275-b373-49e0-8c4b-027f2fe63c8a--93792fa2-d7ae-4860-a5c9-2a9c190e92f3"],
+        "id": "cisco-mobile-application--56731275-b373-49e0-8c4b-027f2fe63c8a"
+    },
+    "autodesk-in-trial-marketing-campaign--23cf5115-4f7a-4ab1-aaf2-c604f89420bf--b7bd0a92-810f-4308-b784-e327cd2e6583": {
+        "type": "line",
+        "title": "Challenge",
+        "text": "Autodesk came to us with a challenge. Lots of people download free trials of their software and then drop off the planet.",
+        "size": "small",
+        "id": "autodesk-in-trial-marketing-campaign--23cf5115-4f7a-4ab1-aaf2-c604f89420bf--b7bd0a92-810f-4308-b784-e327cd2e6583"
+    },
+    "autodesk-in-trial-marketing-campaign--23cf5115-4f7a-4ab1-aaf2-c604f89420bf": {
+        "type": "text-module",
+        "lines": ["autodesk-in-trial-marketing-campaign--23cf5115-4f7a-4ab1-aaf2-c604f89420bf--b7bd0a92-810f-4308-b784-e327cd2e6583"],
+        "id": "autodesk-in-trial-marketing-campaign--23cf5115-4f7a-4ab1-aaf2-c604f89420bf"
+    },
+    "vode-website--43733a1f-8b53-4f3c-b0ad-3f1fe879bac7--e316cea9-7844-4856-8d86-107f72df4b19": {
+        "type": "line",
+        "title": "Inspiration\n\n\nInspiration",
+        "text": "",
+        "size": "small",
+        "id": "vode-website--43733a1f-8b53-4f3c-b0ad-3f1fe879bac7--e316cea9-7844-4856-8d86-107f72df4b19"
+    },
+    "vode-website--43733a1f-8b53-4f3c-b0ad-3f1fe879bac7": {
+        "type": "text-module",
+        "lines": ["vode-website--43733a1f-8b53-4f3c-b0ad-3f1fe879bac7--e316cea9-7844-4856-8d86-107f72df4b19"],
+        "id": "vode-website--43733a1f-8b53-4f3c-b0ad-3f1fe879bac7"
+    },
+    "vode-website--ce47fb48-cd47-4255-9a98-938ce6d1dea4--4d994080-c2bb-45f0-869c-cd374358d676": {
+        "type": "line",
+        "title": "test",
+        "text": "test",
+        "size": "small",
+        "id": "vode-website--ce47fb48-cd47-4255-9a98-938ce6d1dea4--4d994080-c2bb-45f0-869c-cd374358d676"
+    },
+    "vode-website--ce47fb48-cd47-4255-9a98-938ce6d1dea4": {
+        "type": "text-module",
+        "lines": ["vode-website--ce47fb48-cd47-4255-9a98-938ce6d1dea4--4d994080-c2bb-45f0-869c-cd374358d676"],
+        "id": "vode-website--ce47fb48-cd47-4255-9a98-938ce6d1dea4"
+    },
+    "vode-website--304e0ec7-a7d2-4dbd-b827-faf7abf06377--7d705200-3b48-4e4b-be75-e965e6875371": {
+        "type": "line",
+        "title": "test",
+        "text": "test",
+        "size": "small",
+        "id": "vode-website--304e0ec7-a7d2-4dbd-b827-faf7abf06377--7d705200-3b48-4e4b-be75-e965e6875371"
+    },
+    "vode-website--304e0ec7-a7d2-4dbd-b827-faf7abf06377": {
+        "type": "text-module",
+        "lines": ["vode-website--304e0ec7-a7d2-4dbd-b827-faf7abf06377--7d705200-3b48-4e4b-be75-e965e6875371"],
+        "id": "vode-website--304e0ec7-a7d2-4dbd-b827-faf7abf06377"
+    },
+    "cisco-motion--9548421d-1c1b-4490-9538-5c495eadeb3b": {
+        "type": "image-body-module",
+        "image": "cisco_motion_script.png",
+        "height": 500,
+        "link": {},
+        "id": "cisco-motion--9548421d-1c1b-4490-9538-5c495eadeb3b"
+    },
+    "9420be79-069b-456d-ab1a-4bbb850c0efe--33ffca33-cb36-4671-99eb-a5ed97342ac5--e75a53ef-21c8-4d30-b0d7-d1e01a00e196": {
+        "type": "line",
+        "title": "",
+        "text": "Tests",
+        "size": "small",
+        "id": "9420be79-069b-456d-ab1a-4bbb850c0efe--33ffca33-cb36-4671-99eb-a5ed97342ac5--e75a53ef-21c8-4d30-b0d7-d1e01a00e196"
+    },
+    "9420be79-069b-456d-ab1a-4bbb850c0efe--33ffca33-cb36-4671-99eb-a5ed97342ac5": {
+        "type": "text-module",
+        "lines": ["9420be79-069b-456d-ab1a-4bbb850c0efe--33ffca33-cb36-4671-99eb-a5ed97342ac5--e75a53ef-21c8-4d30-b0d7-d1e01a00e196"],
+        "id": "9420be79-069b-456d-ab1a-4bbb850c0efe--33ffca33-cb36-4671-99eb-a5ed97342ac5"
+    },
+    "clorox-mobile-application--b75ba536-ceab-4e34-a355-231a03952afd": {
+        "type": "image-body-module",
+        "image": "mess.png",
+        "height": 500,
+        "link": {},
+        "id": "clorox-mobile-application--b75ba536-ceab-4e34-a355-231a03952afd"
+    },
+    "clorox-mobile-application--83974cb9-e26e-4240-8bcf-30376aca7fd5": {
+        "type": "image-body-module",
+        "image": "people_article.png",
+        "height": 500,
+        "link": {},
+        "id": "clorox-mobile-application--83974cb9-e26e-4240-8bcf-30376aca7fd5"
+    },
+    "9420be79-069b-456d-ab1a-4bbb850c0efe--2e69b044-ba14-44cd-99a9-b861e086d2c5": {
+        "type": "image-body-module",
+        "image": "youcaring_final.png",
+        "height": 500,
+        "link": {},
+        "id": "9420be79-069b-456d-ab1a-4bbb850c0efe--2e69b044-ba14-44cd-99a9-b861e086d2c5"
+    },
+    "finding-rover-social-media--1a5977d5-4647-4efa-8ef2-f5b202e044ab": {
+        "type": "image-hero-module",
+        "image": "FDR_bus.png",
+        "title": "",
+        "link": {},
+        "id": "finding-rover-social-media--1a5977d5-4647-4efa-8ef2-f5b202e044ab"
+    },
+    "finding-rover-social-media--0b3c7c68-3dc3-437d-b5c3-1d3ce2d7b43f--93152907-7b92-4071-8946-d787c57db12b": {
+        "type": "line",
+        "title": "Finding Rover on tour",
+        "text": "Finding Rover was going on tour across the country. Imagine a huge bus with irresistibly cute photos of dogs. And a live stream of snapshots of dog lovers across the country. Everyone deserves their 15 minutes.",
+        "size": "small",
+        "id": "finding-rover-social-media--0b3c7c68-3dc3-437d-b5c3-1d3ce2d7b43f--93152907-7b92-4071-8946-d787c57db12b"
+    },
+    "finding-rover-social-media--0b3c7c68-3dc3-437d-b5c3-1d3ce2d7b43f": {
+        "type": "text-module",
+        "lines": ["finding-rover-social-media--0b3c7c68-3dc3-437d-b5c3-1d3ce2d7b43f--93152907-7b92-4071-8946-d787c57db12b"],
+        "id": "finding-rover-social-media--0b3c7c68-3dc3-437d-b5c3-1d3ce2d7b43f"
+    },
+    "9d0d29df-91cb-4e43-af02-d6b8b86a2ded": {
+        "type": "line",
+        "title": "test",
+        "text": "foo",
+        "size": "large",
+        "id": "9d0d29df-91cb-4e43-af02-d6b8b86a2ded"
+    },
+    "839eec53-091b-4869-a9d6-b7df135a36ff--44b7609f-94d5-4e48-8f96-b79e661211e5--7242d77e-11ef-41cb-9b4d-7983a82ff2df": {
+        "type": "line",
+        "title": "",
+        "text": "test",
+        "size": "small",
+        "id": "839eec53-091b-4869-a9d6-b7df135a36ff--44b7609f-94d5-4e48-8f96-b79e661211e5--7242d77e-11ef-41cb-9b4d-7983a82ff2df"
+    },
+    "839eec53-091b-4869-a9d6-b7df135a36ff--44b7609f-94d5-4e48-8f96-b79e661211e5": {
+        "type": "text-module",
+        "lines": ["839eec53-091b-4869-a9d6-b7df135a36ff--44b7609f-94d5-4e48-8f96-b79e661211e5--7242d77e-11ef-41cb-9b4d-7983a82ff2df"],
+        "id": "839eec53-091b-4869-a9d6-b7df135a36ff--44b7609f-94d5-4e48-8f96-b79e661211e5"
+    },
+    "finding-rover-social-media--70aae526-6450-4f6e-9cf4-03242ac35c84": {
+        "type": "image-body-module",
+        "image": "FDR_bus2.png",
+        "height": 500,
+        "link": {},
+        "id": "finding-rover-social-media--70aae526-6450-4f6e-9cf4-03242ac35c84"
+    },
+    "0249b49f-1821-4be2-888d-f09fad52aa6e--f62fb27f-ef9a-4d37-abcf-46866b99a6eb": {
+        "type": "image-body-module",
+        "image": "vectra_naming.png",
+        "height": 500,
+        "link": {},
+        "id": "0249b49f-1821-4be2-888d-f09fad52aa6e--f62fb27f-ef9a-4d37-abcf-46866b99a6eb"
+    },
+    "7af484f8-9833-4dc2-a1ce-414ac3edc89e": {
+        "type": "line",
+        "title": "test",
+        "text": "asdf",
+        "size": "large",
+        "id": "7af484f8-9833-4dc2-a1ce-414ac3edc89e"
+    },
+    "e8e3d012-fcb3-4332-887b-4cb2355fc549": {
+        "type": "line",
+        "title": "foo",
+        "text": "bat",
+        "size": "large",
+        "id": "e8e3d012-fcb3-4332-887b-4cb2355fc549"
+    },
+    "california-closets-website--759c5d5d-726a-4bfd-945b-ee12ad9e82a1--f21320f5-dce5-43ae-a331-b5905a6a9d5d": {
+        "type": "line",
+        "title": "abc",
+        "text": "def",
+        "size": "small",
+        "id": "california-closets-website--759c5d5d-726a-4bfd-945b-ee12ad9e82a1--f21320f5-dce5-43ae-a331-b5905a6a9d5d"
+    },
+    "california-closets-website--759c5d5d-726a-4bfd-945b-ee12ad9e82a1": {
+        "type": "text-module",
+        "lines": ["california-closets-website--759c5d5d-726a-4bfd-945b-ee12ad9e82a1--f21320f5-dce5-43ae-a331-b5905a6a9d5d", "fca92d50-028d-4f56-bd55-22d180765571"],
+        "id": "california-closets-website--759c5d5d-726a-4bfd-945b-ee12ad9e82a1"
+    },
+    "fca92d50-028d-4f56-bd55-22d180765571": {
+        "type": "line",
+        "title": "test",
+        "text": "asdf",
+        "size": "large",
+        "id": "fca92d50-028d-4f56-bd55-22d180765571"
+    },
+    "0d313ece-5985-4761-99cd-81a2af587adb": {
+        "type": "line",
+        "title": "",
+        "text": "",
+        "size": "large",
+        "id": "0d313ece-5985-4761-99cd-81a2af587adb"
+    },
+    "7008d4bb-24d5-4fa4-8fcc-f523ac1e1574": {
+        "type": "line",
+        "title": "Visual Cues",
+        "text": "As you spec out each element, you can see an updated visual of your choices.",
+        "size": "small",
+        "id": "7008d4bb-24d5-4fa4-8fcc-f523ac1e1574"
+    },
+    "vode-website--5569d235-12d1-487d-ad88-c3dd4f463111--2356464e-55eb-4c96-88d2-09b13a68aca7": {
+        "type": "line",
+        "title": "sfddsaf",
+        "text": "afdsfafd",
+        "size": "small",
+        "id": "vode-website--5569d235-12d1-487d-ad88-c3dd4f463111--2356464e-55eb-4c96-88d2-09b13a68aca7"
+    },
+    "vode-website--5569d235-12d1-487d-ad88-c3dd4f463111": {
+        "type": "text-module",
+        "lines": ["vode-website--5569d235-12d1-487d-ad88-c3dd4f463111--2356464e-55eb-4c96-88d2-09b13a68aca7"],
+        "id": "vode-website--5569d235-12d1-487d-ad88-c3dd4f463111"
+    },
+    "vode-website--cdc0f25e-40b0-45e3-95db-f75e9525d438--da27ea0e-39e7-4443-83b3-58546c848ef5": {
+        "type": "line",
+        "title": "Forgiving",
+        "text": "We also designed the system to be forgiving. You can change your mind at any point, without starting from the beginning.",
+        "size": "small",
+        "id": "vode-website--cdc0f25e-40b0-45e3-95db-f75e9525d438--da27ea0e-39e7-4443-83b3-58546c848ef5"
+    },
+    "vode-website--cdc0f25e-40b0-45e3-95db-f75e9525d438": {
+        "type": "text-module",
+        "lines": ["vode-website--cdc0f25e-40b0-45e3-95db-f75e9525d438--da27ea0e-39e7-4443-83b3-58546c848ef5"],
+        "id": "vode-website--cdc0f25e-40b0-45e3-95db-f75e9525d438"
+    },
+    "vode-website--3cc73b14-b75c-4c9d-aaea-675dc713672b--c31feb7b-f706-49b4-9aa9-25350097367b": {
+        "type": "line",
+        "title": "We also designed the system to be forgiving. You can change your mind at any point, without starting from the beginning.",
+        "text": "",
+        "size": "small",
+        "id": "vode-website--3cc73b14-b75c-4c9d-aaea-675dc713672b--c31feb7b-f706-49b4-9aa9-25350097367b"
+    },
+    "vode-website--3cc73b14-b75c-4c9d-aaea-675dc713672b": {
+        "type": "text-module",
+        "lines": ["vode-website--3cc73b14-b75c-4c9d-aaea-675dc713672b--c31feb7b-f706-49b4-9aa9-25350097367b"],
+        "id": "vode-website--3cc73b14-b75c-4c9d-aaea-675dc713672b"
+    },
+    "9f76ed16-3b14-48a5-aaf9-03ba9ccf8f0b": {
+        "type": "line",
+        "title": "Forgiving",
+        "text": "We also designed the system to be forgiving. You can change your mind at any point, without starting from the beginning.",
+        "size": "small",
+        "id": "9f76ed16-3b14-48a5-aaf9-03ba9ccf8f0b"
+    },
+    "440a5779-6415-4032-bd9b-8c9b1bdd6029": {
+        "type": "line",
+        "title": "Reminders",
+        "text": "And we also designed a way to notate each and every step. Just in case someone questions your brilliant design.",
+        "size": "small",
+        "id": "440a5779-6415-4032-bd9b-8c9b1bdd6029"
+    },
+    "3a04f9d0-53a3-4b2c-98c7-b9f243e6eb35": {
+        "type": "line",
+        "title": "",
+        "text": "\"quote from client about how awesome it is.\"",
+        "size": "large",
+        "id": "3a04f9d0-53a3-4b2c-98c7-b9f243e6eb35"
+    },
+    "927658d7-6380-4aa1-a819-5fbc6e719344": {
+        "type": "line",
+        "title": "Challenge",
+        "text": "They want a name that is short, descriptive and available as a .com",
+        "size": "small",
+        "id": "927658d7-6380-4aa1-a819-5fbc6e719344"
+    },
+    "7db7967f-4cc3-4351-b0dd-fb13fd103869": {
+        "type": "line",
+        "title": "Mission\n",
+        "text": "We brainstormed together to create a list of hundreds of roots, but we couldn't get the word illuminate out of our minds.",
+        "size": "small",
+        "id": "7db7967f-4cc3-4351-b0dd-fb13fd103869"
+    },
+    "6943207a-435d-415a-9d48-e6098981f235": {
+        "type": "line",
+        "title": "",
+        "text": "When one of our writers said Illumio, it was like light bulbs went on all over Silicon Valley.",
+        "size": "small",
+        "id": "6943207a-435d-415a-9d48-e6098981f235"
+    },
+    "66c982c1-22ad-460a-8ac9-5b5028fffbfa": {
+        "type": "line",
+        "title": "",
+        "text": "We also told the real stories of the AutoCAD \"Mentors.\" From struggle to triumph, we let Autodesk customers inspire others to believe in themselves and reach their dreams.",
+        "size": "small",
+        "id": "66c982c1-22ad-460a-8ac9-5b5028fffbfa"
+    },
+    "79700875-ca26-4ac5-992e-0d852885e19a": {
+        "type": "line",
+        "title": "Challenge",
+        "text": "YouCaring had grown explosively with little attention to their brand. They needed help defining their audience and their messaging to extend their reach and help even more people in need.",
+        "size": "small",
+        "id": "79700875-ca26-4ac5-992e-0d852885e19a"
+    },
+    "7cf4ff5e-9c06-49e0-8ec7-2aeec1412e19": {
+        "type": "line",
+        "title": "Discovery",
+        "text": "We started off leading a brand workshop, digging into a broad range of metrics and indicators.",
+        "size": "small",
+        "id": "7cf4ff5e-9c06-49e0-8ec7-2aeec1412e19"
+    },
+    "5566f26b-4309-432d-9be2-9d209f010a6d": {
+        "type": "line",
+        "title": "Survey",
+        "text": "Then, leveraging the personality and aspiration survey we developed in house, we surveyed the target audience to understand who they are. ",
+        "size": "small",
+        "id": "5566f26b-4309-432d-9be2-9d209f010a6d"
+    },
+    "c5ed84d2-04bf-4401-abb5-7253285b0cee": {
+        "type": "line",
+        "title": "",
+        "text": "We also uncovered their specific motivations for donating to others.",
+        "size": "small",
+        "id": "c5ed84d2-04bf-4401-abb5-7253285b0cee"
+    },
+    "46032569-90b3-4031-b40c-5323566072a4": {
+        "type": "line",
+        "title": "",
+        "text": "We returned again and again to the Personas and asked ourselves how they would respond. It helped keep the conversation focused on the audience. When we hit on it, you could feel the energy in the room. YouCaring. Kindness is powerful.",
+        "size": "small",
+        "id": "46032569-90b3-4031-b40c-5323566072a4"
+    },
+    "3e183e19-81c4-439d-a0d6-6d2acdde1f93": {
+        "type": "line",
+        "title": "Results",
+        "text": "In the words of the YouCaring team, they were pumped with the work we did.",
+        "size": "small",
+        "id": "3e183e19-81c4-439d-a0d6-6d2acdde1f93"
+    },
+    "2d199312-5e79-4717-a541-1c09fbb99c17": {
+        "type": "line",
+        "title": "Challenge",
+        "text": "We sought out to find an identity that captured the character and energy of this company in the overcrowded streets of the Internet.",
+        "size": "small",
+        "id": "2d199312-5e79-4717-a541-1c09fbb99c17"
+    },
+    "711bce08-eec2-47be-b610-710ff07c7903": {
+        "type": "line",
+        "title": "",
+        "text": "One name practically jumped out of the list: Vectra.",
+        "size": "small",
+        "id": "711bce08-eec2-47be-b610-710ff07c7903"
+    },
+    "fcc18fd8-2323-41c7-9960-4dc2bb5c6612": {
+        "type": "line",
+        "title": "",
+        "text": "Making it so easy that your 95 year old grandpa could use it was key. And there were lots of unique challenges. Like, we needed a frontal facing photo of the dog. Have you ever tried holding up a camera and saying \"cheese\" to a dog? (Hint: they don't look at you.) ",
+        "size": "small",
+        "id": "fcc18fd8-2323-41c7-9960-4dc2bb5c6612"
+    },
+    "f9482fb3-f9e0-4385-990e-d4a1b97c6e45": {
+        "type": "line",
+        "title": "",
+        "text": "Our solution? The bark button. Tap it right before you snap the photo, and the dog looks right at the phone. Want to know which sound works the best? (Download the app to find out!)",
+        "size": "small",
+        "id": "f9482fb3-f9e0-4385-990e-d4a1b97c6e45"
+    },
+    "19a144b6-4d34-4f8d-9d02-dea7daba30b2": {
+        "type": "line",
+        "title": "",
+        "text": "",
+        "size": "large",
+        "id": "19a144b6-4d34-4f8d-9d02-dea7daba30b2"
+    },
+    "97787c17-863f-4006-8b6f-cf108b542e04": {
+        "type": "line",
+        "title": "",
+        "text": "We also had account for the posting of inappropriate photos. In addition to flagging, we hooked the app up to CrowdFlower, a cost effective way to crowdsource photo moderation.",
+        "size": "small",
+        "id": "97787c17-863f-4006-8b6f-cf108b542e04"
+    },
+    "7e024550-9f3e-4936-8fd5-d9fced1bdec6": {
+        "type": "line",
+        "title": "Challenge",
+        "text": "How to communicate the amazing emotional benefit of a great storage solution?",
+        "size": "small",
+        "id": "7e024550-9f3e-4936-8fd5-d9fced1bdec6"
+    },
+    "709a793f-6c66-426b-989d-513dad1382a5": {
+        "type": "line",
+        "title": "",
+        "text": "Using both qualitative and quantitative methodologies, we created 5 personas.",
+        "size": "small",
+        "id": "709a793f-6c66-426b-989d-513dad1382a5"
+    },
+    "81c01ca0-9d58-4e50-8280-2a678937a584": {
+        "type": "line",
+        "title": "",
+        "text": "Their profiles describe not only their buying habits and personality, but they go a level deeper and describe their emotional drivers.",
+        "size": "small",
+        "id": "81c01ca0-9d58-4e50-8280-2a678937a584"
+    },
+    "a0133025-d3d4-4f9e-a86b-df18d9c4587d": {
+        "type": "line",
+        "title": "",
+        "text": "Our goal was not to show off the product; but highlight people enjoying themselves at home because of the product.",
+        "size": "small",
+        "id": "a0133025-d3d4-4f9e-a86b-df18d9c4587d"
+    },
+    "4006de7c-cde4-46d6-a18f-97efcdfd99d5": {
+        "type": "line",
+        "title": "",
+        "text": "Taking off your shoes after work and putting them into the empty spot on the shoe shelf. Pulling just the right book off  shelf to read to your daughter. This is the stuff of life. The stuff that makes California Closets magical.",
+        "size": "small",
+        "id": "4006de7c-cde4-46d6-a18f-97efcdfd99d5"
+    },
+    "1eb59b17-bfd8-4524-841c-ba1c3fc7d594": {
+        "type": "line",
+        "title": "The strategy",
+        "text": "We started with creating a script to highlight the top 5 features in action. While we love video, a slideshow allowed us to put the user in the driver seat.",
+        "size": "small",
+        "id": "1eb59b17-bfd8-4524-841c-ba1c3fc7d594"
+    },
+    "84b4c16e-2187-4493-a1e9-75b64d5b58e1": {
+        "type": "line",
+        "title": "The execution",
+        "text": "We chapterized each feature and created a simple interface that allows users to easily navigate to see what's important to them.",
+        "size": "small",
+        "id": "84b4c16e-2187-4493-a1e9-75b64d5b58e1"
+    },
+    "finding-rover-social-media--21970a1e-e776-45a4-829a-2bad0136b5bc": {
+        "type": "image-body-module",
+        "image": "puppies.png",
+        "height": 500,
+        "link": {},
+        "id": "finding-rover-social-media--21970a1e-e776-45a4-829a-2bad0136b5bc"
+    },
+    "home--e231ee99-785a-4155-937c-796c448d477e--f764bd08-0c7e-4a15-9d3e-bd39e56fa45b": {
+        "type": "line",
+        "title": "Our passion",
+        "text": "Building new experiences that enable people to do the things they really care about.",
+        "size": "large",
+        "id": "home--e231ee99-785a-4155-937c-796c448d477e--f764bd08-0c7e-4a15-9d3e-bd39e56fa45b"
+    },
+    "home--e231ee99-785a-4155-937c-796c448d477e": {
+        "type": "text-module",
+        "lines": ["home--e231ee99-785a-4155-937c-796c448d477e--f764bd08-0c7e-4a15-9d3e-bd39e56fa45b"],
+        "id": "home--e231ee99-785a-4155-937c-796c448d477e"
+    },
+    "about-1": {
+        "type": "text-module",
+        "lines": [],
+        "id": "about-1"
+    },
+    "about": {
+        "type": "page",
+        "name": "About",
+        "path": "/about",
+        "modules": [],
+        "id": "about"
+    },
+    "about--a067c27e-b6db-4154-88ef-8148eaf805a7": {
+        "type": "image-hero-module",
+        "link": {},
+        "id": "about--a067c27e-b6db-4154-88ef-8148eaf805a7"
+    },
+    "thanks": {
+        "type": "page",
+        "name": "Thanks",
+        "path": "/thanks",
+        "modules": ["thanks-1"],
+        "id": "thanks"
+    },
+    "thanks-1": {
+        "id": "thanks-1",
+        "type": "text-module",
+        "lines": ["thanks-1-1"]
+    },
+    "thanks-1-1": {
+        "type": "line",
+        "title": "Dear",
+        "text": "Boldium *appreciates* your contribution.\nWe will *companion* with you soon.",
+        "size": "large",
+        "id": "thanks-1-1"
+    }
+}

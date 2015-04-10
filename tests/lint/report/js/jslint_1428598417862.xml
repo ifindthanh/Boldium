@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jslint>
+	<file name='/home/OS/nodejs/Boldium/src/controllers/types/work-page.js'>
+		<issue line='24' char='13' severity='W' reason='Bad line breaking before &apos;+&apos;.' evidence='            + &apos;-&apos; + (this.subname.data || &apos;&apos;).replace(/[^A-Za-z0-9]+/g, &apos;-&apos;).toLowerCase();' />
+	</file>
+</jslint>

@@ -1,0 +1,156 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jslint>
+	<file name='/home/OS/nodejs/Boldium/src/public/js/bundle.js'>
+		<issue line='1' char='200' severity='W' reason='Missing semicolon.' evidence='(function e(t,n,r){function s(o,u){if(!n[o]){if(!t[o]){var a=typeof require==&quot;function&quot;&amp;&amp;require;if(!u&amp;&amp;a)return a(o,!0);if(i)return i(o,!0);var f=new Error(&quot;Cannot find module &apos;&quot;+o+&quot;&apos;&quot;);throw f.code=&quot;MODULE_NOT_FOUND&quot;,f}var l=n[o]={exports:{}};t[o][0].call(l.exports,function(e){var n=t[o][1][e];return s(n?n:e)},l,l.exports,e,t,n,r)}return n[o].exports}var i=typeof require==&quot;function&quot;&amp;&amp;require;for(var o=0;o&lt;r.length;o++)s(r[o]);return s})({1:[function(require,module,exports){' />
+	</file>
+	<file name='/home/OS/nodejs/Boldium/src/public/js/bundle.js'>
+		<issue line='1' char='200' severity='E' reason='Expected an identifier and instead saw &apos;=&apos;.' evidence='(function e(t,n,r){function s(o,u){if(!n[o]){if(!t[o]){var a=typeof require==&quot;function&quot;&amp;&amp;require;if(!u&amp;&amp;a)return a(o,!0);if(i)return i(o,!0);var f=new Error(&quot;Cannot find module &apos;&quot;+o+&quot;&apos;&quot;);throw f.code=&quot;MODULE_NOT_FOUND&quot;,f}var l=n[o]={exports:{}};t[o][0].call(l.exports,function(e){var n=t[o][1][e];return s(n?n:e)},l,l.exports,e,t,n,r)}return n[o].exports}var i=typeof require==&quot;function&quot;&amp;&amp;require;for(var o=0;o&lt;r.length;o++)s(r[o]);return s})({1:[function(require,module,exports){' />
+	</file>
+	<file name='/home/OS/nodejs/Boldium/src/public/js/bundle.js'>
+		<issue line='1' char='200' severity='W' reason='Expected an assignment or function call and instead saw an expression.' evidence='(function e(t,n,r){function s(o,u){if(!n[o]){if(!t[o]){var a=typeof require==&quot;function&quot;&amp;&amp;require;if(!u&amp;&amp;a)return a(o,!0);if(i)return i(o,!0);var f=new Error(&quot;Cannot find module &apos;&quot;+o+&quot;&apos;&quot;);throw f.code=&quot;MODULE_NOT_FOUND&quot;,f}var l=n[o]={exports:{}};t[o][0].call(l.exports,function(e){var n=t[o][1][e];return s(n?n:e)},l,l.exports,e,t,n,r)}return n[o].exports}var i=typeof require==&quot;function&quot;&amp;&amp;require;for(var o=0;o&lt;r.length;o++)s(r[o]);return s})({1:[function(require,module,exports){' />
+	</file>
+	<file name='/home/OS/nodejs/Boldium/src/public/js/bundle.js'>
+		<issue line='1' char='201' severity='W' reason='Missing semicolon.' evidence='(function e(t,n,r){function s(o,u){if(!n[o]){if(!t[o]){var a=typeof require==&quot;function&quot;&amp;&amp;require;if(!u&amp;&amp;a)return a(o,!0);if(i)return i(o,!0);var f=new Error(&quot;Cannot find module &apos;&quot;+o+&quot;&apos;&quot;);throw f.code=&quot;MODULE_NOT_FOUND&quot;,f}var l=n[o]={exports:{}};t[o][0].call(l.exports,function(e){var n=t[o][1][e];return s(n?n:e)},l,l.exports,e,t,n,r)}return n[o].exports}var i=typeof require==&quot;function&quot;&amp;&amp;require;for(var o=0;o&lt;r.length;o++)s(r[o]);return s})({1:[function(require,module,exports){' />
+	</file>
+	<file name='/home/OS/nodejs/Boldium/src/public/js/bundle.js'>
+		<issue line='1' char='220' severity='W' reason='Expected an assignment or function call and instead saw an expression.' evidence='(function e(t,n,r){function s(o,u){if(!n[o]){if(!t[o]){var a=typeof require==&quot;function&quot;&amp;&amp;require;if(!u&amp;&amp;a)return a(o,!0);if(i)return i(o,!0);var f=new Error(&quot;Cannot find module &apos;&quot;+o+&quot;&apos;&quot;);throw f.code=&quot;MODULE_NOT_FOUND&quot;,f}var l=n[o]={exports:{}};t[o][0].call(l.exports,function(e){var n=t[o][1][e];return s(n?n:e)},l,l.exports,e,t,n,r)}return n[o].exports}var i=typeof require==&quot;function&quot;&amp;&amp;require;for(var o=0;o&lt;r.length;o++)s(r[o]);return s})({1:[function(require,module,exports){' />
+	</file>
+	<file name='/home/OS/nodejs/Boldium/src/public/js/bundle.js'>
+		<issue line='1' char='221' severity='W' reason='Missing semicolon.' evidence='(function e(t,n,r){function s(o,u){if(!n[o]){if(!t[o]){var a=typeof require==&quot;function&quot;&amp;&amp;require;if(!u&amp;&amp;a)return a(o,!0);if(i)return i(o,!0);var f=new Error(&quot;Cannot find module &apos;&quot;+o+&quot;&apos;&quot;);throw f.code=&quot;MODULE_NOT_FOUND&quot;,f}var l=n[o]={exports:{}};t[o][0].call(l.exports,function(e){var n=t[o][1][e];return s(n?n:e)},l,l.exports,e,t,n,r)}return n[o].exports}var i=typeof require==&quot;function&quot;&amp;&amp;require;for(var o=0;o&lt;r.length;o++)s(r[o]);return s})({1:[function(require,module,exports){' />
+	</file>
+	<file name='/home/OS/nodejs/Boldium/src/public/js/bundle.js'>
+		<issue line='1' char='313' severity='W' reason='Missing semicolon.' evidence='(function e(t,n,r){function s(o,u){if(!n[o]){if(!t[o]){var a=typeof require==&quot;function&quot;&amp;&amp;require;if(!u&amp;&amp;a)return a(o,!0);if(i)return i(o,!0);var f=new Error(&quot;Cannot find module &apos;&quot;+o+&quot;&apos;&quot;);throw f.code=&quot;MODULE_NOT_FOUND&quot;,f}var l=n[o]={exports:{}};t[o][0].call(l.exports,function(e){var n=t[o][1][e];return s(n?n:e)},l,l.exports,e,t,n,r)}return n[o].exports}var i=typeof require==&quot;function&quot;&amp;&amp;require;for(var o=0;o&lt;r.length;o++)s(r[o]);return s})({1:[function(require,module,exports){' />
+	</file>
+	<file name='/home/OS/nodejs/Boldium/src/public/js/bundle.js'>
+		<issue line='1' char='335' severity='W' reason='Missing semicolon.' evidence='(function e(t,n,r){function s(o,u){if(!n[o]){if(!t[o]){var a=typeof require==&quot;function&quot;&amp;&amp;require;if(!u&amp;&amp;a)return a(o,!0);if(i)return i(o,!0);var f=new Error(&quot;Cannot find module &apos;&quot;+o+&quot;&apos;&quot;);throw f.code=&quot;MODULE_NOT_FOUND&quot;,f}var l=n[o]={exports:{}};t[o][0].call(l.exports,function(e){var n=t[o][1][e];return s(n?n:e)},l,l.exports,e,t,n,r)}return n[o].exports}var i=typeof require==&quot;function&quot;&amp;&amp;require;for(var o=0;o&lt;r.length;o++)s(r[o]);return s})({1:[function(require,module,exports){' />
+	</file>
+	<file name='/home/OS/nodejs/Boldium/src/public/js/bundle.js'>
+		<issue line='1' char='355' severity='W' reason='Missing semicolon.' evidence='(function e(t,n,r){function s(o,u){if(!n[o]){if(!t[o]){var a=typeof require==&quot;function&quot;&amp;&amp;require;if(!u&amp;&amp;a)return a(o,!0);if(i)return i(o,!0);var f=new Error(&quot;Cannot find module &apos;&quot;+o+&quot;&apos;&quot;);throw f.code=&quot;MODULE_NOT_FOUND&quot;,f}var l=n[o]={exports:{}};t[o][0].call(l.exports,function(e){var n=t[o][1][e];return s(n?n:e)},l,l.exports,e,t,n,r)}return n[o].exports}var i=typeof require==&quot;function&quot;&amp;&amp;require;for(var o=0;o&lt;r.length;o++)s(r[o]);return s})({1:[function(require,module,exports){' />
+	</file>
+	<file name='/home/OS/nodejs/Boldium/src/public/js/bundle.js'>
+		<issue line='1' char='441' severity='W' reason='Missing semicolon.' evidence='(function e(t,n,r){function s(o,u){if(!n[o]){if(!t[o]){var a=typeof require==&quot;function&quot;&amp;&amp;require;if(!u&amp;&amp;a)return a(o,!0);if(i)return i(o,!0);var f=new Error(&quot;Cannot find module &apos;&quot;+o+&quot;&apos;&quot;);throw f.code=&quot;MODULE_NOT_FOUND&quot;,f}var l=n[o]={exports:{}};t[o][0].call(l.exports,function(e){var n=t[o][1][e];return s(n?n:e)},l,l.exports,e,t,n,r)}return n[o].exports}var i=typeof require==&quot;function&quot;&amp;&amp;require;for(var o=0;o&lt;r.length;o++)s(r[o]);return s})({1:[function(require,module,exports){' />
+	</file>
+	<file name='/home/OS/nodejs/Boldium/src/public/js/bundle.js'>
+		<issue line='108' char='39' severity='W' reason='Missing semicolon.' evidence='process.cwd = function () { return &apos;/&apos; };' />
+	</file>
+	<file name='/home/OS/nodejs/Boldium/src/public/js/bundle.js'>
+		<issue line='815' char='13' severity='W' reason='Expected an assignment or function call and instead saw an expression.' evidence='    ) : null);' />
+	</file>
+	<file name='/home/OS/nodejs/Boldium/src/public/js/bundle.js'>
+		<issue line='829' char='13' severity='W' reason='Expected an assignment or function call and instead saw an expression.' evidence='    ) : null);' />
+	</file>
+	<file name='/home/OS/nodejs/Boldium/src/public/js/bundle.js'>
+		<issue line='844' char='13' severity='W' reason='Expected an assignment or function call and instead saw an expression.' evidence='    ) : null);' />
+	</file>
+	<file name='/home/OS/nodejs/Boldium/src/public/js/bundle.js'>
+		<issue line='889' char='22' severity='W' reason='Use &apos;!==&apos; to compare with &apos;null&apos;.' evidence='      if (styleValue != null) {' />
+	</file>
+	<file name='/home/OS/nodejs/Boldium/src/public/js/bundle.js'>
+		<issue line='938' char='34' severity='W' reason='Missing semicolon.' evidence='}).call(this,require(&apos;_process&apos;))' />
+	</file>
+	<file name='/home/OS/nodejs/Boldium/src/public/js/bundle.js'>
+		<issue line='1004' char='58' severity='W' reason='Expected an assignment or function call and instead saw an expression.' evidence='      ) : invariant(callbacks.length === contexts.length));' />
+	</file>
+	<file name='/home/OS/nodejs/Boldium/src/public/js/bundle.js'>
+		<issue line='1038' char='34' severity='W' reason='Missing semicolon.' evidence='}).call(this,require(&apos;_process&apos;))' />
+	</file>
+	<file name='/home/OS/nodejs/Boldium/src/public/js/bundle.js'>
+		<issue line='1529' char='36' severity='W' reason='Expected an assignment or function call and instead saw an expression.' evidence='        ) : invariant(updatedChild));' />
+	</file>
+	<file name='/home/OS/nodejs/Boldium/src/public/js/bundle.js'>
+		<issue line='1583' char='34' severity='W' reason='Missing semicolon.' evidence='}).call(this,require(&apos;_process&apos;))' />
+	</file>
+	<file name='/home/OS/nodejs/Boldium/src/public/js/bundle.js'>
+		<issue line='1666' char='74' severity='W' reason='Expected an assignment or function call and instead saw an expression.' evidence='      ) : invariant(!DOMProperty.isStandardName.hasOwnProperty(propName)));' />
+	</file>
+	<file name='/home/OS/nodejs/Boldium/src/public/js/bundle.js'>
+		<issue line='1714' char='48' severity='W' reason='Expected an assignment or function call and instead saw an expression.' evidence='        !DOMProperty.mustUseProperty[propName]));' />
+	</file>
+	<file name='/home/OS/nodejs/Boldium/src/public/js/bundle.js'>
+		<issue line='1721' char='47' severity='W' reason='Expected an assignment or function call and instead saw an expression.' evidence='        !DOMProperty.hasSideEffects[propName]));' />
+	</file>
+	<file name='/home/OS/nodejs/Boldium/src/public/js/bundle.js'>
+		<issue line='1731' char='64' severity='W' reason='Expected an assignment or function call and instead saw an expression.' evidence='        !!DOMProperty.hasOverloadedBooleanValue[propName] &lt;= 1));' />
+	</file>
+	<file name='/home/OS/nodejs/Boldium/src/public/js/bundle.js'>
+		<issue line='1882' char='34' severity='W' reason='Missing semicolon.' evidence='}).call(this,require(&apos;_process&apos;))' />
+	</file>
+	<file name='/home/OS/nodejs/Boldium/src/public/js/bundle.js'>
+		<issue line='1905' char='16' severity='W' reason='Use &apos;===&apos; to compare with &apos;null&apos;.' evidence='  return value == null ||' />
+	</file>
+	<file name='/home/OS/nodejs/Boldium/src/public/js/bundle.js'>
+		<issue line='1942' char='20' severity='W' reason='Use &apos;===&apos; to compare with &apos;null&apos;.' evidence='      standardName == null,' />
+	</file>
+	<file name='/home/OS/nodejs/Boldium/src/public/js/bundle.js'>
+		<issue line='1946' char='13' severity='W' reason='Expected an assignment or function call and instead saw an expression.' evidence='    ) : null);' />
+	</file>
+	<file name='/home/OS/nodejs/Boldium/src/public/js/bundle.js'>
+		<issue line='1987' char='17' severity='W' reason='Use &apos;===&apos; to compare with &apos;null&apos;.' evidence='      if (value == null) {' />
+	</file>
+	<file name='/home/OS/nodejs/Boldium/src/public/js/bundle.js'>
+		<issue line='2028' char='17' severity='W' reason='Use &apos;===&apos; to compare with &apos;null&apos;.' evidence='      if (value == null) {' />
+	</file>
+	<file name='/home/OS/nodejs/Boldium/src/public/js/bundle.js'>
+		<issue line='2074' char='34' severity='W' reason='Missing semicolon.' evidence='}).call(this,require(&apos;_process&apos;))' />
+	</file>
+	<file name='/home/OS/nodejs/Boldium/src/public/js/bundle.js'>
+		<issue line='2136' char='50' severity='W' reason='Expected an assignment or function call and instead saw an expression.' evidence='    ) : invariant(ExecutionEnvironment.canUseDOM));' />
+	</file>
+	<file name='/home/OS/nodejs/Boldium/src/public/js/bundle.js'>
+		<issue line='2144' char='35' severity='W' reason='Expected an assignment or function call and instead saw an expression.' evidence='      ) : invariant(markupList[i]));' />
+	</file>
+	<file name='/home/OS/nodejs/Boldium/src/public/js/bundle.js'>
+		<issue line='2194' char='65' severity='W' reason='Expected an assignment or function call and instead saw an expression.' evidence='          ) : invariant(!resultList.hasOwnProperty(resultIndex)));' />
+	</file>
+	<file name='/home/OS/nodejs/Boldium/src/public/js/bundle.js'>
+		<issue line='2216' char='67' severity='W' reason='Expected an assignment or function call and instead saw an expression.' evidence='    ) : invariant(resultListAssignmentCount === resultList.length));' />
+	</file>
+	<file name='/home/OS/nodejs/Boldium/src/public/js/bundle.js'>
+		<issue line='2223' char='59' severity='W' reason='Expected an assignment or function call and instead saw an expression.' evidence='    ) : invariant(resultList.length === markupList.length));' />
+	</file>
+	<file name='/home/OS/nodejs/Boldium/src/public/js/bundle.js'>
+		<issue line='2243' char='50' severity='W' reason='Expected an assignment or function call and instead saw an expression.' evidence='    ) : invariant(ExecutionEnvironment.canUseDOM));' />
+	</file>
+	<file name='/home/OS/nodejs/Boldium/src/public/js/bundle.js'>
+		<issue line='2244' char='141' severity='W' reason='Expected an assignment or function call and instead saw an expression.' evidence='    (&quot;production&quot; !== process.env.NODE_ENV ? invariant(markup, &apos;dangerouslyReplaceNodeWithMarkup(...): Missing markup.&apos;) : invariant(markup));' />
+	</file>
+	<file name='/home/OS/nodejs/Boldium/src/public/js/bundle.js'>
+		<issue line='2251' char='61' severity='W' reason='Expected an assignment or function call and instead saw an expression.' evidence='    ) : invariant(oldChild.tagName.toLowerCase() !== &apos;html&apos;));' />
+	</file>
+	<file name='/home/OS/nodejs/Boldium/src/public/js/bundle.js'>
+		<issue line='2261' char='34' severity='W' reason='Missing semicolon.' evidence='}).call(this,require(&apos;_process&apos;))' />
+	</file>
+	<file name='/home/OS/nodejs/Boldium/src/public/js/bundle.js'>
+		<issue line='2602' char='34' severity='W' reason='Missing semicolon.' evidence='}).call(this,require(&apos;_process&apos;))' />
+	</file>
+	<file name='/home/OS/nodejs/Boldium/src/public/js/bundle.js'>
+		<issue line='2672' char='23' severity='W' reason='Expected an assignment or function call and instead saw an expression.' evidence='  ) : invariant(valid));' />
+	</file>
+	<file name='/home/OS/nodejs/Boldium/src/public/js/bundle.js'>
+		<issue line='2757' char='63' severity='W' reason='Expected an assignment or function call and instead saw an expression.' evidence='    ) : invariant(!listener || typeof listener === &apos;function&apos;));' />
+	</file>
+	<file name='/home/OS/nodejs/Boldium/src/public/js/bundle.js'>
+		<issue line='2862' char='31' severity='W' reason='Expected an assignment or function call and instead saw an expression.' evidence='    ) : invariant(!eventQueue));' />
+	</file>
+	<file name='/home/OS/nodejs/Boldium/src/public/js/bundle.js'>
+		<issue line='2880' char='34' severity='W' reason='Missing semicolon.' evidence='}).call(this,require(&apos;_process&apos;))' />
+	</file>
+	<file name='/home/OS/nodejs/Boldium/src/public/js/bundle.js'>
+		<issue line='2927' char='36' severity='W' reason='Expected an assignment or function call and instead saw an expression.' evidence='    ) : invariant(pluginIndex &gt; -1));' />
+	</file>
+	<file name='/home/OS/nodejs/Boldium/src/public/js/bundle.js'>
+		<issue line='2936' char='46' severity='W' reason='Expected an assignment or function call and instead saw an expression.' evidence='    ) : invariant(PluginModule.extractEvents));' />
+	</file>
+	<file name='/home/OS/nodejs/Boldium/src/public/js/bundle.js'>
+		<issue line='2953' char='9' severity='W' reason='Expected an assignment or function call and instead saw an expression.' evidence='      )));' />
+	</file>
+	<file name='/home/OS/nodejs/Boldium/src/public/js/bundle.js'>
+		<issue line='2972' char='89' severity='W' reason='Expected an assignment or function call and instead saw an expression.' evidence='  ) : invariant(!EventPluginRegistry.eventNameDispatchConfigs.hasOwnProperty(eventName)));' />
+	</file>
+	<file name='/home/OS/nodejs/Boldium/src/public/js/bundle.js'>
+		<issue line='3013' char='80' severity='W' reason='Expected an assignment or function call and instead saw an expression.' evidence='  ) : invariant(!EventPluginRegistry.registrationNameModules[registrationName]));' />
+	</file>
+	<file name='/home/OS/nodejs/Boldium/src/public/js/bundle.js'>
+		<issue line='3013' char='80' severity='E' reason='Too many errors. (14% scanned).' evidence='' />
+	</file>
+</jslint>

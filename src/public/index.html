@@ -1,0 +1,20 @@
+<!doctype html>
+<html>
+<head>
+    <title></title>
+    <link id="style" rel="stylesheet" href="/css/style.min.css">
+    <script src="/socket.io/socket.io.js"></script>
+    <script type="text/javascript">
+        var socket = io();
+        var PAGE = '{{page}}';
+        var HOST = socket.io.uri;
+        document.getElementById('style').href = HOST + '/css/style.min.css';
+        socket.emit('init', PAGE);
+    </script>
+</head>
+<body>
+<div id="content"></div>
+<script id="script" src="/js/bundle.js" type="text/javascript"></script>
+<script type="text/javascript">document.getElementById('script').src = HOST + '/js/bundle.js';</script>
+</body>
+</html>
